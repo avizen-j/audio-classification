@@ -192,14 +192,6 @@ def predict_audio(model_type, checkpoint_path, audio_path):
     checkpoint = torch.load(checkpoint_path, map_location=device)
     model.load_state_dict(checkpoint['model'])
 
-    # # Parallel
-    # if 'cuda' in str(device):
-    #     model.to(device)
-    #     print('GPU number: {}'.format(torch.cuda.device_count()))
-    #     model = torch.nn.DataParallel(model)
-    # else:
-    #     print('Using CPU.')
-
     # Load audio
     (waveform, _) = librosa.core.load(audio_path, sr=sample_rate, mono=True)
 
@@ -222,12 +214,7 @@ def predict_audio(model_type, checkpoint_path, audio_path):
         if clipwise_output[sorted_indexes[k]] > 0.10:
             answers.append(np.array(labels)[sorted_indexes[k]])
 
-    # answers.append('{}: {:.3f}'.format(np.array(labels)[sorted_indexes[k]],clipwise_output[sorted_indexes[k]]))
-
-
     return answers
-
-    # return clipwise_output, labels
 
 
 def findClassByLabels(labels):
