@@ -1,0 +1,1 @@
+Based on the https://github.com/qiuqiangkong/audioset_tagging_cnn

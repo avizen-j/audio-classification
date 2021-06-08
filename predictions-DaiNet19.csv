@@ -1,0 +1,4 @@
+video_id,predictions,answers,score,prediction_time_seconds
+Y-_f_ClsDxyc,"Music, Brass instrument, Musical instrument, Cello, Clarinet","Brass instrument, Trumpet, Clarinet",66.66666666666666,0.936
+Y-_HXiz8XnV0,"Speech, Music, Crack, Shatter, Thunk","Speech, Music, Breaking, Inside, small room",50.0,0.964
+Y-_QPd-VskKY,"Typing, Computer keyboard, Speech, Vehicle, Horse",Mouse,0.0,0.972

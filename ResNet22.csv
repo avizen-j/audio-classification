@@ -1,0 +1,1001 @@
+video_id,predictions,answers,prediction_time_seconds,correctPredictions,totalPredictions,totalAnswers
+Y-0BIyqJj9ZU,"Baby laughter; Snicker; Chuckle, chortle; Laughter","Baby laughter; Belly laugh; Chuckle, chortle",1.677,2,4,3
+Y-0CamVQdP_Y,Music; Speech,"Speech; Walk, footsteps; Music",1.437,2,2,3
+Y-0Gj8-vB1q4,Music; Sad music; Lullaby; Humming,Music; Theme music; Christmas music,1.716,1,4,3
+Y-0jeONf82dE,"Speech; Animal; Music; Horse; Neigh, whinny","Speech; Animal; Horse; Neigh, whinny; Music",1.696,5,5,5
+Y-0nqfRcnAYE,"Dishes, pots, and pans; Speech; Cutlery, silverware; Coin (dropping)","Dishes, pots, and pans",1.652,1,4,1
+Y-0p7hKXZ1ww,"Speech; Firecracker; Cap gun; Burst, pop; Gunshot, gunfire",Speech; Firecracker,1.674,2,5,2
+Y-0RWZT-miFs,"Speech; Keys jangling; Vehicle; Car; Power windows, electric windows",Car; Keys jangling,1.698,2,5,2
+Y-0vPFx-wRRI,Music; Tap; Musical instrument,Finger snapping; Music,1.750,1,3,2
+Y-0xzrMun0Rs,Music; Purr; Animal,Stomach rumble; Music,1.670,1,3,2
+Y-0yRK50zyTI,Speech; Shuffling cards,Speech; Crackle,1.730,1,2,2
+Y-0YUDn-1yII,Music,Music; Theme music,1.708,1,1,2
+Y-1EXhfqLLwQ,"Water; Water tap, faucet; Bathtub (filling or washing); Toilet flush; Sink (filling or washing); Fill (with liquid)","Animal; Domestic animals, pets; Water; Bathtub (filling or washing); Gush; Fill (with liquid); Pump (liquid)",1.716,3,6,7
+Y-1hDIl9Udkw,Music; Speech; Hiss; Steam; Thunderstorm; Thunder; Ocean; Wind; Rain,Speech; Rattle; Music,1.769,2,9,3
+Y-1Hub6Ps_cc,"Sink (filling or washing); Water; Water tap, faucet; Speech; Inside, small room","Speech; Hands; Water tap, faucet; Sink (filling or washing); Inside, small room",1.682,4,5,5
+Y-1II0Di9Hkc,Music; Musical instrument; Guitar; Rock music; Plucked string instrument; Singing; Psychedelic rock,Music; Radio,1.752,1,7,2
+Y-1LQP2wemiQ,Busy signal; Speech; Telephone,"Speech; Female speech, woman speaking; Beep, bleep",1.725,1,3,3
+Y-1nilez17Dg,"Heart sounds, heartbeat; Heart murmur; Speech",Speech; Heart murmur,1.739,2,3,2
+Y-1OlgJWehn8,Music; Musical instrument; Guitar; Rock music; Plucked string instrument; Singing; Psychedelic rock,Music; Radio,1.755,1,7,2
+Y-1pPw9zZopA,"Toilet flush; Speech; Water; Inside, small room",Water; Toilet flush,1.746,2,4,2
+Y-1pRmoJIGQc,Vehicle; Engine; Idling; Car; Vibration; Medium engine (mid frequency); Engine knocking; Heavy engine (low frequency),Engine; Engine knocking; Idling,1.719,3,8,3
+Y-1PZQg5Gi8A,Music; Speech; Brass instrument; Trombone; Trumpet; Shatter,"Smash, crash",1.739,0,6,1
+Y-1UWSisR2zo,Music; Speech; Techno; Electronic music; Crowd; Electronica; Dance music; House music; Disco,Music; Maraca,1.659,1,9,2
+Y-2EKWgTNEYU,Buzzer,Radio,1.741,0,1,1
+Y-2sE5CH8Wb8,Printer; Vehicle; Reversing beeps; Truck,Vehicle; Truck; Reversing beeps,1.727,3,4,3
+Y-2xiZDEuHd8,"Music; Speech; Grunt; Burping, eructation; Music for children; Pig; Oink",Speech; Oink; Music,1.649,3,7,3
+Y-3-4qmWSJXU,Rain; Thunderstorm; Thunder; Rain on surface; Raindrop,Thunderstorm; Thunder; Rain; Rain on surface,1.689,4,5,4
+Y-3Kv4fdm7Uk,Music; Steelpan; Musical instrument; Drum; Percussion,Music; Musical instrument; Steelpan,1.673,3,5,3
+Y-ZJqu_4zLMc,"Cat; Speech; Domestic animals, pets; Meow; Animal; Caterwaul; Inside, small room","Speech; Animal; Domestic animals, pets; Cat; Meow; Caterwaul",1.674,6,7,6
+Y-_f_ClsDxyc,"Clarinet; Music; Brass instrument; Musical instrument; Saxophone; French horn; Classical music; Piano; Wind instrument, woodwind instrument; Trombone",Brass instrument; Trumpet; Clarinet,1.739,2,10,3
+Y-_HXiz8XnV0,"Speech; Music; Thunk; Inside, small room; Ding-dong; Jingle, tinkle; Thump, thud","Speech; Music; Breaking; Inside, small room",1.819,3,7,4
+Y-_QPd-VskKY,Speech; Single-lens reflex camera; Camera; Vehicle,Mouse,1.771,0,4,1
+Y-_UCboMO_xE,"Laughter; Speech; Snicker; Slap, smack; Chuckle, chortle","Slap, smack",1.578,1,5,1
+Y0-2Onbywljo,"Oink; Speech; Music; Pig; Marimba, xylophone; Vibraphone",Speech; Grunt; Pig; Music,1.727,3,6,4
+Y0-6N0Qagy5A,"Music; Bicycle bell; Heart murmur; Heart sounds, heartbeat",Music; Synthesizer; Bicycle bell,1.728,2,4,3
+Y0-7PyzhzuYQ,"Music; Banjo; Musical instrument; Bluegrass; Country; Guitar; Plucked string instrument; Bowed string instrument; Violin, fiddle",Music; Bluegrass; Folk music; Music of Latin America; Flamenco; Gospel music; Music of Bollywood,1.676,2,9,7
+Y0-EgET9q3qE,"Music; Musical instrument; Keyboard (musical); Piano; Electric piano; Electronic organ; Steel guitar, slide guitar; Organ",Organ; Electronic organ,1.664,2,8,2
+Y0-Hzui4Qpl4,"Speech; Boiling; Inside, small room",Speech; Boiling,1.678,2,3,2
+Y0-ljtP6WJrI,Whistling; Whistle; Music,Whistling,1.677,1,3,1
+Y0-N62G9etNE,Music; Speech; Crowd,Speech; Groan; Music; Music of Latin America,1.707,2,3,4
+Y0-o0oZvSFOk,"Speech; Sheep; Bleat; Animal; Goat; Livestock, farm animals, working animals",Speech; Bleat; Sheep,1.767,3,6,3
+Y0-yskgO46Bg,Speech,"Speech; Dental drill, dentist's drill",1.687,1,1,2
+Y00AGIhlv-w0,"Sanding; Rub; Animal; Dog; Domestic animals, pets; Bow-wow; Speech",Sanding; Wood; Rub,1.693,2,7,3
+Y00cREXaIlnQ,"Music; Speech; Jingle, tinkle; Liquid","Boat, Water vehicle; Rowboat, canoe, kayak",1.686,0,4,2
+Y00FBAdjlF4g,Speech,Creak,1.652,0,1,1
+Y00G2vNrTnCc,"Speech; Music; Sonar; Inside, small room",Speech; Music; Pulse,1.722,2,4,3
+Y00iiNF4tn4o,Steam; Steam whistle; Hiss; Whistle,Train whistle,1.744,0,4,1
+Y00KM53yZi2A,Printer; Cash register,Printer,1.707,1,2,1
+Y00mJnXKtToE,Music; Speech,"Music; Burst, pop",1.643,1,2,2
+Y00vYncpl0pk,Music; Video game music; Soundtrack music; Funny music,Music; Video game music,1.756,2,4,2
+Y00wORCOKNHw,"Animal; Clip-clop; Horse; Speech; Neigh, whinny; Livestock, farm animals, working animals",Clip-clop,1.702,1,6,1
+Y00XaUxjGuX8,"Speech; Sniff; Drawer open or close; Inside, small room; Animal",Bouncing,1.667,0,5,1
+Y00z0M1DJyAw,"Turkey; Fowl; Gobble; Chicken, rooster; Cluck; Livestock, farm animals, working animals; Bird",Fowl; Turkey; Gobble,1.651,3,7,3
+Y01CiQ6VDxbo,Choir; Singing; Female singing; A capella; Music; Vocal music; Male singing,Yell,1.830,0,7,1
+Y01he_d18c8o,Vehicle; Train; Car; Rail transport; Music,Train whistle; Steam whistle,1.774,0,5,2
+Y01SaXyGY5SM,"Speech; Animal; Domestic animals, pets; Cat; Meow; Caterwaul; Knock; Door","Speech; Animal; Domestic animals, pets; Cat; Caterwaul",1.812,5,8,5
+Y01x0zZpL87I,"Speech; Vehicle; Car; Accelerating, revving, vroom; Car passing by",Speech; Clatter,1.817,1,5,2
+Y02-0m4RbDUI,"Speech; Inside, small room",Speech; Door; Knock,1.735,1,2,3
+Y02Ak1eIyj3M,"Emergency vehicle; Ambulance (siren); Siren; Vehicle; Fire engine, fire truck (siren); Motor vehicle (road)",Emergency vehicle; Ambulance (siren); Siren,1.802,3,6,3
+Y02Fdq2tyIWI,Music; Humming,Music; Happy music,1.682,1,2,2
+Y02UvvE1oA1I,"Music; Sheep; Bleat; Animal; Goat; Speech; Livestock, farm animals, working animals",Bleat; Music,1.741,2,7,2
+Y02XbmweOzOY,"Jackhammer; Machine gun; Gunshot, gunfire; Vehicle",Jackhammer,1.678,1,4,1
+Y03aJ_RcnBko,Speech; Tools; Sewing machine; Music,Hammer,1.748,0,4,1
+Y03c-hmoUfuc,"Telephone bell ringing; Speech; Inside, small room; Music; Telephone; Inside, large room or hall","Speech; Telephone bell ringing; Inside, small room",1.673,3,6,3
+Y03c2pnO2Xv0,Wood; Vehicle; Crushing; Pump (liquid),Crushing,1.721,1,4,1
+Y03IZHwOh2eQ,"Speech; Chewing, mastication; Inside, small room; Biting","Chewing, mastication",1.728,1,4,1
+Y03Q2SbeP_cw,Ambulance (siren); Emergency vehicle; Siren; Music; Police car (siren); Vehicle,Emergency vehicle; Ambulance (siren); Siren,1.829,3,6,3
+Y03Uz8L0u07Q,"Wild animals; Animal; Roaring cats (lions, tigers); Roar; Owl; Whistle",Animal; Wild animals,1.752,2,6,2
+Y03zeVlBWhdY,Crowd; Battle cry; Cheering; Speech,Speech; Whimper,1.850,1,4,2
+Y0A-VisU1k8U,Speech; Chop; Arrow,Arrow,1.744,1,3,1
+Y0a5KHX_odJ8,Speech; Drawer open or close; Door; Sliding door,Speech; Bang,1.786,1,4,2
+Y0a91szM1Ivw,"Music; Carnatic music; Classical music; Singing; Musical instrument; Music of Asia; Violin, fiddle; Bowed string instrument",Music; Carnatic music; Traditional music,1.808,2,8,3
+Y0AA0R8gbxcI,Speech; Chant; Mantra; Music,Speech; Reverberation; Field recording,1.810,1,4,3
+Y0aaLWD7TUSU,Speech,"Boat, Water vehicle; Rowboat, canoe, kayak",1.725,0,1,2
+Y0abzD7hBTRk,Beatboxing; Speech; Vocal music; Music,Music; Beatboxing,1.760,2,4,2
+Y0AkRWunFZPk,Speech; Typewriter; Shuffling cards; Scissors,Speech; Crunch,1.907,1,4,2
+Y0AqnCSdkjQ0,"Sink (filling or washing); Water tap, faucet; Water; Liquid; Speech; Fill (with liquid); Inside, small room; Drip",Liquid; Drip,1.728,2,8,2
+Y0ARh-9Amrv0,Cricket; Insect; Speech; Thunk,Speech; Knock,1.822,1,4,2
+Y0aYAf-S-fKM,Music; Musical instrument; Guitar; Plucked string instrument; Echo; Reverberation; Effects unit,Echo,1.744,1,7,1
+Y0B7fwvTtvLM,"Basketball bounce; Trickle, dribble; Fireworks","Trickle, dribble; Basketball bounce",1.574,2,3,2
+Y0BauNGmZtTU,Thunder; Thunderstorm; Rain; Rain on surface,Thunderstorm; Thunder; Rain; Rain on surface,1.715,4,4,4
+Y0BCXcbaLeoA,"Breaking; Speech; Glass; Chink, clink","Chink, clink; Breaking",1.783,2,4,2
+Y0BgI0XxW0kE,Speech; Vehicle; Music; Engine,Speech; Air conditioning,1.667,1,4,2
+Y0bhY7v5dJDY,Oink; Animal; Grunt; Pig,Grunt,1.712,1,4,1
+Y0bKpv6YBl7g,Speech; Drawer open or close; Sliding door; Door; Wood,Speech; Drawer open or close,1.824,2,5,2
+Y0BlmXxLck5g,Singing; A capella; Music; Vocal music; Yodeling; Female singing,Synthetic singing,1.907,0,6,1
+Y0bO6DhC2tlU,"Stir; Frying (food); Sizzle; Dishes, pots, and pans; Speech",Frying (food); Stir; Sizzle,1.776,3,5,3
+Y0bP2MH3LqvI,Music; Speech; Vehicle,"Music; Propeller, airscrew",1.693,1,3,2
+Y0bRUkLsttto,Music; Rapping; Hip hop music,Music; Exciting music,1.772,1,3,2
+Y0bsbkdnSgMQ,"Animal; Snort; Domestic animals, pets; Dog; Inside, small room",Creak,1.769,0,5,1
+Y0bvPjMQ_WbE,Music; Steelpan; Musical instrument; Drum; Percussion,Music; Steelpan,1.826,2,5,2
+Y0bWZNWZ8YCI,"Mechanisms; Gears; Rattle; Clock; Ratchet, pawl",Clatter,1.680,0,5,1
+Y0c1YU_VtFRE,Music; Eruption; Wind noise (microphone); Wind; Vehicle,"Music; Outside, rural or natural; Field recording",1.821,1,5,3
+Y0c78GAZ0jLY,Child singing; Music; Female singing; Singing,Child singing,1.663,1,4,1
+Y0CA5CPHRXDc,Fart; Music; Mosquito,"Insect; Mosquito; Fly, housefly",1.579,1,3,3
+Y0Cd8q2Zg1Mc,Snoring; Light engine (high frequency); Vehicle; Snort,Snoring,1.648,1,4,1
+Y0CJFt950vOk,Civil defense siren; Siren,Siren; Civil defense siren,1.790,2,2,2
+Y0Cl6hXpryhY,Speech; Screaming; Groan,Grunt; Basketball bounce,1.801,0,3,2
+Y0cNYPgD6cEA,Music; Musical instrument; Singing; Guitar; Plucked string instrument; Female singing; Wedding music; Male singing,Male singing; Music,1.716,2,8,2
+Y0crG6jzAUpE,"Telephone dialing, DTMF; Speech; Telephone; Dial tone; Telephone bell ringing; Music","Speech; Busy signal; Inside, small room",1.685,1,6,3
+Y0CTgEP0SIVg,"Bird; Chirp, tweet; Bird vocalization, bird call, bird song; Domestic animals, pets; Animal; Bird flight, flapping wings; Dog; Cricket","Bird; Bird vocalization, bird call, bird song; Chirp, tweet; Insect; Cricket",1.723,4,8,5
+Y0Cu33yBwAPg,Church bell; Bell,Church bell,1.792,1,2,1
+Y0CzC0-cXe8M,Vehicle; Engine; Speech; Lawn mower; Idling; Heavy engine (low frequency); Light engine (high frequency); Truck; Vibration; Medium engine (mid frequency),Vehicle; Lawn mower,1.723,2,10,2
+Y0cZQm65sZjc,"Keys jangling; Speech; Car; Vehicle; Power windows, electric windows",Speech; Keys jangling,1.775,2,5,2
+Y0D9ZiiYArKw,"Speech; Zipper (clothing); Inside, small room",Speech; Flap,1.799,1,3,2
+Y0dC6Ay0oqWk,Music; Zither; Pizzicato; Harp,Zither; Pizzicato,1.819,2,4,2
+Y0dd6AlyOnfc,Speech; Vehicle; Music,Pump (liquid),1.812,0,3,1
+Y0dgl6Rvt3X0,"Speech; Inside, public space; Chatter; Female speech, woman speaking",Speech; Single-lens reflex camera,1.718,1,4,2
+Y0DizopdPMBw,Music; Grunge; Progressive rock; Rock music; Punk rock,Music; Exciting music,1.818,1,5,2
+Y0DJP7ywh7nc,"Vehicle; Train; Steam whistle; Rail transport; Railroad car, train wagon; Music; Train whistle; Car",Steam whistle,1.769,1,8,1
+Y0dPx94RPy2M,"Music; Tools; Power tool; Drill; Wood; Sawing; Dental drill, dentist's drill","Music; Dental drill, dentist's drill",1.797,2,7,2
+Y0dVmGVa3Rbw,Single-lens reflex camera; Camera,Camera; Single-lens reflex camera,1.657,2,2,2
+Y0DwRfesDQvE,"Scissors; Inside, small room",Rattle,1.800,0,2,1
+Y0DzsPL-xElE,Chainsaw; Power tool; Tools,Motorcycle; Chainsaw,1.870,1,3,2
+Y0EI7FxbdsUE,Frying (food); Speech; Sizzle; Stir,Speech; Music; Gush,1.888,1,4,3
+Y0EiQyHjoaz8,Bicycle bell; Clock,Cash register,1.644,0,2,1
+Y0EOQco76eXQ,"Music; Bass guitar; Guitar; Musical instrument; Plucked string instrument; Electronic tuner; Electric guitar; Inside, small room",Music; Musical instrument; Bass guitar; Wedding music,1.684,3,8,4
+Y0EQYTfW7TDc,Chopping (food),Chopping (food),1.826,1,1,1
+Y0eTrzI5-ong,"Music; Musical instrument; Violin, fiddle; Banjo; Bowed string instrument; Bluegrass; Guitar; Country; Plucked string instrument; Cello",Zither; Bowed string instrument; Pizzicato; Cello,1.751,2,10,4
+Y0EvpBtracsk,Music; Musical instrument; Guitar; Rock music; Plucked string instrument; Singing; Psychedelic rock,Music; Radio,1.832,1,7,2
+Y0ewQiU3q5jM,"Music; Glockenspiel; Ding-dong; Jingle, tinkle; Marimba, xylophone; Mallet percussion; Lullaby",Music; Jingle (music),1.799,1,7,2
+Y0eXXRhp0p3w,Vehicle; Heavy engine (low frequency); Engine,Gush,1.810,0,3,1
+Y0EyIdGgbPEo,"Speech; Music; Smash, crash",Speech; Music; Bang,1.784,2,3,3
+Y0EyJ15KLxg4,Organ; Hammond organ; Electronic organ; Music; Musical instrument,Organ; Electronic organ; Hammond organ,1.762,3,5,3
+Y0F-Z0zF1504,Music; Rhythm and blues; Soul music,Music; Pop music; Soul music,1.803,2,3,3
+Y0F04c_rY4aw,"Howl; Animal; Dog; Domestic animals, pets; Speech; Canidae, dogs, wolves; Yip; Inside, small room",Howl,1.765,1,8,1
+Y0fCpAuxrQ_I,Music; Angry music; Rock music; Progressive rock; Heavy metal,Music; Angry music,1.881,2,5,2
+Y0fD-eSRrybM,Speech; Music; Boom; Mechanisms,Mechanisms; Creak,1.782,1,4,2
+Y0fiOM---7QI,Music; Percussion; Tabla; Speech; Drum; Musical instrument; Wood block; Singing; Folk music,Music; Middle Eastern music,1.942,1,9,2
+Y0FjrveIENzI,Music; Speech,Shuffle; Music,1.777,1,2,2
+Y0foC-4n-eH0,"Animal; Dog; Domestic animals, pets; Bow-wow; Speech; Bark; Whimper (dog); Yip; Inside, small room","Animal; Domestic animals, pets; Dog; Door; Sliding door",1.615,3,9,5
+Y0fqtA_ZBn_8,Music; Carnatic music; Singing; Classical music; Music of Asia; Musical instrument,Mantra; Music; Sitar; Carnatic music,1.813,2,6,4
+Y0fsntL6RKww,Music; Scratch,Hammer,1.738,0,2,1
+Y0fvq8YY28qI,Typewriter; Speech,"Speech; Crack; Inside, small room",1.828,1,2,3
+Y0fwt2zSftIc,"Speech; Inside, small room",Mechanical fan,1.745,0,2,1
+Y0fZKF6FprcA,"Vehicle; Car; Power windows, electric windows; Engine starting; Engine",Mechanisms; Creak,1.787,0,5,2
+Y0Fzrv1GXHPI,"Sine wave; Heart sounds, heartbeat; Music; Chirp tone; Heart murmur; Speech; Hum",Sine wave,1.757,1,7,1
+Y0g-KosNgMYA,"Music; Speech; Train; Rail transport; Railroad car, train wagon; Train horn; Train whistle; Vehicle","Rail transport; Train; Train whistle; Railroad car, train wagon",1.757,4,8,4
+Y0g4SlqjORM4,French horn; Brass instrument; Music; Trombone; Musical instrument; Trumpet,Orchestra; Brass instrument; French horn,1.652,2,6,3
+Y0G50t4FlbIA,Screaming; Speech; Music; Slosh,Speech; Screaming,1.717,2,4,2
+Y0Ga7T-2e490,"Vehicle; Boat, Water vehicle; Wind; Wind noise (microphone); Motorboat, speedboat; Train",Vehicle; Truck; Air brake,1.727,1,6,3
+Y0GFtqzOWnWg,Drill; Tools; Power tool; Speech,Jackhammer,1.686,0,4,1
+Y0GhmrpFuRNQ,Music; Shout; Singing; Speech; Pop music; Crowd; Electronic music,Shout; Singing; Music,1.729,3,7,3
+Y0GNNFBrRz1E,Wood; Hammer; Rub; Speech; Sawing; Filing (rasp),Hammer,1.704,1,6,1
+Y0Gxn9FtaJFc,Music,Music; Sad music,1.765,1,1,2
+Y0g_-KI5NZ-E,Music; Whistling; Whistle,Whistling,1.711,1,3,1
+Y0H25ve3qts4,Speech; Music; Thunk,Speech; Music; Slam,1.598,2,3,3
+Y0H30ORfaFK8,Stomach rumble; Speech,Stomach rumble,1.782,1,2,1
+Y0H814XXq-WQ,Crowd; Battle cry; Music; Cheering; Speech,Battle cry; Crowd,1.960,2,5,2
+Y0HbhE91JB-k,"Insect; Fly, housefly; Bee, wasp, etc.; Music; Speech; Cricket","Insect; Mosquito; Fly, housefly",1.790,2,6,3
+Y0he6VV5Y9Bg,"Speech; Insect; Outside, rural or natural; Cricket",Insect; Cricket,1.738,2,4,2
+Y0hfU27A6tus,Music; Banjo; Musical instrument; Plucked string instrument; Bluegrass; Mandolin; Singing,Music; Musical instrument; Plucked string instrument; Guitar; Banjo; Bowed string instrument; Country; Bluegrass,1.826,5,7,8
+Y0HGsAx2KjPM,Music; Percussion; Wood block; Drum; Musical instrument; Maraca,Percussion; Wood block,1.820,2,6,2
+Y0hjqlmdPT6g,Vehicle; Engine; Idling; Vibration; Heavy engine (low frequency); Medium engine (mid frequency); Car,Vehicle; Engine; Heavy engine (low frequency); Engine starting,1.877,3,7,4
+Y0hOD_iIeePk,Vehicle; Car; Engine starting; Speech; Keys jangling; Music; Engine; Motor vehicle (road); Medium engine (mid frequency),Speech; Vehicle; Car; Engine; Engine starting,1.811,5,9,5
+Y0HqZRxHCGLc,Music; Rain; Raindrop; Rain on surface; Pink noise,Wood; Splinter,1.818,0,5,2
+Y0hUft9scxzY,"Speech; Crumpling, crinkling; Inside, small room; Tearing",Speech; Tearing,1.706,2,4,2
+Y0hWIKYNSEPE,"Bagpipes; Music; Wind instrument, woodwind instrument; Drum","Percussion; Drum; Bass drum; Wind instrument, woodwind instrument; Bagpipes",1.927,3,4,5
+Y0HXYdGGKV2k,Music; Banjo; Bluegrass; Musical instrument; Country; Plucked string instrument; Guitar,Music; Banjo; Bluegrass,1.803,3,7,3
+Y0HzbpwB3xDk,"Speech; Insect; Bee, wasp, etc.; Fly, housefly; Cricket; Air conditioning",Air conditioning,1.815,1,6,1
+Y0i-RTS_FXcM,Music; Cacophony; Ringtone,Music; Ringtone,1.933,2,3,2
+Y0i8VM_EooCs,Music; Pop music; Music of Asia; Singing; Disco; Dance music,Music; Electronic music; Techno,1.774,1,6,3
+Y0iiwZ2_9Vi8,Animal; Vehicle; Speech,Cough,1.744,0,3,1
+Y0ImJuPpEpco,Vehicle; Cacophony; Aircraft,"Propeller, airscrew",1.831,0,3,1
+Y0IMxRf5KZBY,"Speech; Slosh; Splash, splatter; Water; Waves, surf; Vehicle; Ocean",Speech; Slosh,1.818,2,7,2
+Y0ISHZQJdeSw,Music; Rapping; Hip hop music; Speech,Music; Pop music; Middle Eastern music,1.848,1,4,3
+Y0IwGsEzITQs,"Vehicle; Car; Tire squeal; Race car, auto racing; Skidding; Car passing by; Accelerating, revving, vroom; Motor vehicle (road)",Vehicle; Motor vehicle (road); Car; Tire squeal,1.824,4,8,4
+Y0IxyUtHw6Ec,"Speech; Chatter; Music; Inside, public space; Crowd; Inside, large room or hall",Speech; Chatter; Music,1.761,3,6,3
+Y0IzhjqyDzt8,Church bell; Bell,Church bell,1.902,1,2,1
+Y0izHOfrwPn4,Music; Speech; Laughter; Quack,Speech; Quack; Music,1.824,3,4,3
+Y0J3wJhQVOII,Speech; Vehicle; Air conditioning,Speech; Air conditioning,1.876,2,3,2
+Y0JbGxIR8JTk,Music,Music; Ska,1.846,1,1,2
+Y0jFQ21A6GRA,Music; Independent music,Music; Middle Eastern music,1.780,1,2,2
+Y0jiu0RNizU8,"Music; Opera; Speech; Chuckle, chortle; Laughter; Singing; Yodeling","Bowed string instrument; Violin, fiddle",1.767,0,7,2
+Y0JjprYD2Yhw,Whip,Whip,1.741,1,1,1
+Y0jnvb2H25_Q,"Speech; Inside, small room; Crying, sobbing; Baby cry, infant cry; Laughter; Giggle",Speech; Humming,1.797,1,6,2
+Y0Jq6WJLLSIk,"Speech; Child speech, kid speaking; Music; Children playing; Slap, smack",Speech; Oink,1.768,1,5,2
+Y0jR20-0sy1Y,"Shofar; Wind instrument, woodwind instrument; Speech","Wind instrument, woodwind instrument; Shofar",1.758,2,3,2
+Y0jy-sVREk4o,"Wind noise (microphone); Wind; Boat, Water vehicle; Ocean; Music; Waves, surf; Speech; Sailboat, sailing ship; Vehicle",Clip-clop,1.772,0,9,1
+Y0j_nQcD7jdU,Music; Throbbing; Hum,Music; Soundtrack music; Pulse,1.747,1,3,3
+Y0J_TdiZ3TKA,Music; Speech; Musical instrument; Guitar; Plucked string instrument; Strum; Acoustic guitar,Male singing; Synthetic singing; Music,1.697,1,7,3
+Y0K0pXiZrUJA,"Speech; Crunch; Inside, small room; Crumpling, crinkling",Crunch,1.777,1,4,1
+Y0k6KjLouAHs,"Speech; Laughter; Cough; Belly laugh; Snicker; Chuckle, chortle",Speech; Throat clearing,1.700,1,6,2
+Y0KCVgexi4yU,Music; Music of Asia; Singing; Pop music,Music; Middle Eastern music; Happy music,1.746,1,4,3
+Y0kIIGL-xFhY,Finger snapping,Breathing,1.672,0,1,1
+Y0KKTw8pfNjg,Speech; Fire alarm; Alarm,Speech; Fire alarm,1.706,2,3,2
+Y0kNCB0oGiL4,Sigh; Breathing,"Sigh; Inside, small room",1.775,1,2,2
+Y0KOPvSUlNjI,"Bagpipes; Wind instrument, woodwind instrument; Music; Speech","Wind instrument, woodwind instrument; Bagpipes",1.845,2,4,2
+Y0kQD1P0_KUs,Music; Video game music; Musical instrument; Swing music; Brass instrument,Music; Wedding music,1.796,1,5,2
+Y0kQjfwXjFuY,Chant; Music; Speech,Chant; Music,1.798,2,3,2
+Y0kqQNBR09Rc,"Speech; Music; Vehicle; Car; Skidding; Race car, auto racing; Fusillade; Shatter; Tire squeal",Skidding,1.804,1,9,1
+Y0kY1isykrrs,Music; Speech; New-age music; Sad music,Speech; Music; Tender music,1.808,2,4,3
+Y0L2ndtt60Q8,Music; Synthetic singing; Christian music; Christmas music,Synthetic singing; Music,1.820,2,4,2
+Y0LAcf9DNd1Q,"Music; Sound effect; Boom; Whack, thwack; Whoosh, swoosh, swish; Smash, crash; Speech","Whoosh, swoosh, swish; Sound effect",1.798,2,7,2
+Y0LE6Ll1rVlg,Music; Grunge; Progressive rock; Exciting music; Rock and roll; Punk rock,Music; Rhythm and blues; Exciting music,1.895,2,6,3
+Y0lJyHuTVMNY,"Speech; Inside, small room; Chewing, mastication; Crunch; Biting","Speech; Crunch; Inside, small room",1.942,3,5,3
+Y0LLlcPiatiU,Music; Single-lens reflex camera; Camera; Hip hop music,Music; Single-lens reflex camera,1.927,2,4,2
+Y0loP4WNnL2k,"Train; Railroad car, train wagon; Rail transport; Subway, metro, underground; Train wheels squealing; Vehicle","Rail transport; Train; Railroad car, train wagon; Subway, metro, underground",1.758,4,6,4
+Y0lPcHRhXlWk,Vehicle; Car; Bus,Vehicle; Bus,1.845,2,3,2
+Y0lPip_ffJbk,Rub; Speech; Sanding,Speech; Writing,1.731,1,3,2
+Y0LTmV_dOmmo,Speech; Knock,Speech; Knock,1.797,2,2,2
+Y0LY5zuRlIac,Drum; Drum kit; Snare drum; Bass drum; Cymbal; Music; Musical instrument; Percussion; Hi-hat; Drum roll,Cymbal; Hi-hat,1.849,2,10,2
+Y0m2rwP3eYno,Sonar; Music,Sonar,1.832,1,2,1
+Y0m9-5BkL4Mc,Music; Country; Bluegrass; Child singing; Singing; Musical instrument; Female singing; Rock and roll,Child singing; Music,1.903,2,8,2
+Y0Mba3BS1oRM,Speech; Pink noise; Boiling,Speech; Boiling,1.873,2,3,2
+Y0mD4OcdidBM,"Siren; Civil defense siren; Vehicle; Wind instrument, woodwind instrument; Shofar",Siren; Civil defense siren,1.912,2,5,2
+Y0MEPG8c0jqk,"Speech; Crumpling, crinkling; Tearing; Inside, small room; Typewriter","Speech; Crumpling, crinkling; Inside, small room",1.822,3,5,3
+Y0ml1KwECOo8,Snoring,Snoring,1.791,1,1,1
+Y0mNvPaqfwUI,"Vehicle; Train; Rail transport; Railroad car, train wagon; Hiss; Steam; Subway, metro, underground; Fixed-wing aircraft, airplane; Aircraft; Jet engine","Rail transport; Train; Railroad car, train wagon; Train wheels squealing",1.782,3,10,4
+Y0MV5mb0RJLY,Speech; Quack; Duck; Animal,"Speech; Animal; Duck; Inside, small room",1.834,3,4,4
+Y0mXkme9abiU,"Music; Speech; Musical instrument; Guitar; Plucked string instrument; Inside, small room",Chirp tone,1.793,0,6,1
+Y0mZQ6Q-viPw,"Chewing, mastication; Animal; Domestic animals, pets; Snort",Cough,1.889,0,4,1
+Y0MzrXd8CUCg,"Music; Theremin; Wind instrument, woodwind instrument; Musical instrument; Brass instrument; Shofar; French horn; Flute",Music; Foghorn,1.759,1,8,2
+Y0N17tEW_WEU,Speech; Speech synthesizer,"Speech; Narration, monologue",1.869,1,2,2
+Y0N3-lCzOQPI,Frog; Croak; Music,Frog; Croak,1.746,2,3,2
+Y0N6S5OoG7Vg,"Emergency vehicle; Vehicle; Speech; Ambulance (siren); Siren; Car; Police car (siren); Fire engine, fire truck (siren); Motor vehicle (road)",Wind; Wind noise (microphone); Fire,1.824,0,9,3
+Y0N9EN0BEjP0,"Vehicle; Bus; Train; Rail transport; Railroad car, train wagon","Vehicle; Truck; Bus; Traffic noise, roadway noise",1.775,2,5,4
+Y0NMnJXcrhPo,"Whip; Whack, thwack; Whoosh, swoosh, swish","Whoosh, swoosh, swish",1.844,1,3,1
+Y0noFcocWRzw,Glass; Breaking; Shatter,Glass; Breaking,1.739,2,3,2
+Y0NW8rsCj6xQ,Ping; Bouncing; Speech,Ping,1.683,1,3,1
+Y0NZLG7HMiLg,"Vehicle; Machine gun; Gunshot, gunfire",Wind; Wind noise (microphone); Fire,1.805,0,3,3
+Y0O-gZoirpRA,"Vehicle; Car; Music; Car passing by; Race car, auto racing; Tire squeal; Motor vehicle (road)",Car; Reversing beeps,1.750,1,7,2
+Y0OFlTh2_Obo,"Owl; Hoot; Speech; Animal; Domestic animals, pets; Whimper","Speech; Yip; Bow-wow; Canidae, dogs, wolves",1.812,1,6,4
+Y0OhqyNGlJYE,Wood; Hammer; Chop,Knock,1.769,0,3,1
+Y0oI0BvmTLvA,Alarm clock; Music; Clock; Doorbell,Music; Alarm clock; Clock,1.731,3,4,3
+Y0Olm321vgk8,Music; Singing; Tambourine; Gospel music; Speech; Choir; Christian music; Male singing; Wedding music,Male singing; Music,1.853,2,9,2
+Y0onKcFY1Tu0,Frog; Croak,Frog; Croak,1.890,2,2,2
+Y0oudYrPGNN8,"Speech; Music; Inside, small room; Doorbell; Ding-dong",Music; Doorbell,1.760,2,5,2
+Y0OY8XXZ98rw,Music; Heavy metal; Progressive rock; Angry music; Punk rock; Rock and roll; Grunge; Rock music; Musical instrument,Male singing; Synthetic singing; Music,1.887,1,9,3
+Y0OYlHvyfNk4,Music; Ska; Maraca; Rattle (instrument),Music; Swing music; Funk; Music of Latin America; Music of Africa; Ska,1.826,2,4,6
+Y0p7J0O8ew0k,Vehicle; Speech; Engine; Truck; Idling; Vibration; Lawn mower,Speech; Crack,1.727,1,7,2
+Y0pewITE1550,Percussion; Drum; Snare drum; Drum roll; Bass drum; Music; Drum kit; Rimshot; Wood block; Musical instrument,Music; Roll,1.730,1,10,2
+Y0pHPUaSSEWc,"Speech; Fusillade; Gunshot, gunfire; Machine gun",Fusillade,1.651,1,4,1
+Y0pHTgC1Frnw,"Music; Marimba, xylophone; Glockenspiel; Mallet percussion; Vibraphone; Musical instrument","Tubular bells; Mallet percussion; Marimba, xylophone; Glockenspiel",1.804,3,6,4
+Y0PHUQku2P5I,Opera; Music; Classical music; Singing; Speech; Orchestra; Choir,Choir; Music; Opera; Song,1.751,3,7,4
+Y0PKdFG3iB8w,Music; Sitar; Tabla; Classical music; Musical instrument; Applause; Carnatic music; Percussion; Plucked string instrument; Bowed string instrument,Percussion; Drum; Tabla,1.757,2,10,3
+Y0pLgOm0xgjY,"Music; Smash, crash; Whack, thwack","Smash, crash",1.856,1,3,1
+Y0PMFAO4TIU4,Music; Afrobeat; Music of Africa,Music; Jazz,1.772,1,3,2
+Y0PQYNtIBVf4,"Vehicle; Aircraft; Propeller, airscrew; Helicopter; Fixed-wing aircraft, airplane; Aircraft engine; Outside, rural or natural",Jet engine; Engine; Idling,1.690,0,7,3
+Y0pyk5xo7XAI,"Vehicle; Car; Flap; Accelerating, revving, vroom; Outside, urban or manmade",Rustle,1.685,0,5,1
+Y0pYpyy1VXdM,"Speech; Children playing; Child speech, kid speaking; Bird; Bird vocalization, bird call, bird song; Chirp, tweet; Outside, urban or manmade; Mouse","Speech; Child speech, kid speaking; Bird; Squawk; Outside, rural or natural",1.678,3,8,5
+Y0q1wOYCfLlQ,Steam whistle; Steam; Hiss; Train whistle,Steam; Steam whistle,1.727,2,4,2
+Y0QabiRBcEKc,Speech; Pink noise; Waterfall,"Speech; Male speech, man speaking; Pink noise",1.775,2,3,3
+Y0QdEYUt4LL8,"Speech; Boiling; Inside, small room; Liquid; Patter",Fire,1.767,0,5,1
+Y0qDs_aC0LwI,Music; Scratching (performance technique); Scratch; Hip hop music,Mouse; Music,1.656,1,4,2
+Y0QqQ1j1vBgw,"Speech; Music; Aircraft; Propeller, airscrew; Vehicle; Fixed-wing aircraft, airplane; Helicopter; Aircraft engine","Speech; Music; Vehicle; Aircraft; Propeller, airscrew; Fixed-wing aircraft, airplane; Engine",1.772,6,8,7
+Y0QSPtpp1HN8,Organ; Hammond organ; Music; Musical instrument; Keyboard (musical); Piano; Classical music,Keyboard (musical); Piano; Organ; Hammond organ,1.753,4,7,4
+Y0QTme5iyg4A,"Speech; Burst, pop; Explosion; Firecracker",Speech; Explosion,1.763,2,4,2
+Y0QYedLfOwcI,Speech; Fart,Speech; Fart,1.720,2,2,2
+Y0qZ54ovyEWQ,"Speech; Telephone; Telephone dialing, DTMF; Inside, small room; Telephone bell ringing","Speech; Telephone dialing, DTMF; Inside, small room",1.794,3,5,3
+Y0R6KIVvlyfQ,"Speech; Conversation; Female speech, woman speaking; Narration, monologue",Hum; Mains hum,1.724,0,4,2
+Y0R85JknaH-w,"Speech; Splash, splatter; Child speech, kid speaking; Water; Slosh","Speech; Splash, splatter",1.748,2,5,2
+Y0rbUCEM20aw,Speech; Music,Speech; Bang,1.736,1,2,2
+Y0RcMzUdXDRQ,Music; Music for children; Singing,Music; Jazz; Dance music,1.741,1,3,3
+Y0Rg7tKJWk2w,"Speech; Vehicle; Fixed-wing aircraft, airplane; Aircraft",Speech; Gurgling,1.809,1,4,2
+Y0RgGrVklaao,Rain on surface; Rain; Fire; Music; Raindrop; Boom; Thunderstorm; Explosion; Thunder,Music; Boom,1.815,2,9,2
+Y0RGXyIbiHa4,White noise,Rattle,1.783,0,1,1
+Y0RJa3t8qZS4,Music; Rapping; Hip hop music; Speech,Rapping; Music; Hip hop music; Music of Africa,1.731,3,4,4
+Y0Rjyih3W0Is,"Flute; Music; Wind instrument, woodwind instrument; Musical instrument","Wind instrument, woodwind instrument; Flute",1.786,2,4,2
+Y0RMYLychMXc,Speech; Music; Basketball bounce; Vehicle,"Hubbub, speech noise, speech babble",1.786,0,4,1
+Y0rNQE7fccQg,Vehicle; Reversing beeps; Truck; Speech; Air brake,Vehicle; Air brake,1.704,2,5,2
+Y0Rp0mQTZF2o,Speech; Rumble; Music,Speech; Music; Gurgling,1.678,2,3,3
+Y0rqmPdr352Q,"Animal; Snake; Music; Outside, rural or natural; Environmental noise; Wild animals",Rattle; Rattle (instrument),1.711,0,6,2
+Y0Rt6sNb3P8o,Theremin; Whistle; Music; Speech,Scary music,1.879,0,4,1
+Y0RyzdrZgrus,"Speech; Music; Burst, pop; Smash, crash","Speech; Music; Burst, pop",1.668,3,4,3
+Y0rz3h0ghprk,"Speech; Inside, small room; Crumpling, crinkling; Crunch; Crack","Speech; Crumpling, crinkling",1.827,2,5,2
+Y0rzB4A1PjnA,Speech; Clicking,Clicking,1.704,1,2,1
+Y0RZRFj7zDnQ,Cello; Double bass; Bowed string instrument; Music; Musical instrument,Bowed string instrument; Cello; Double bass,1.786,3,5,3
+Y0s0Uy0-zBa0,Sonar; Cacophony,Music; Sidetone,1.718,0,2,2
+Y0S2mvjzH_xQ,Speech; Pour; Fusillade,Environmental noise,1.680,0,3,1
+Y0s6gEV9d52I,"Speech; Buzzer; Electric shaver, electric razor",Speech; Buzzer,1.787,2,3,2
+Y0saogke2Mec,"Gunshot, gunfire; Artillery fire; Machine gun","Thump, thud",1.660,0,3,1
+Y0sE4JvKFpMI,Speech; Cheering; Crowd; Music; Noise; Cacophony,Speech; Slosh,1.576,1,6,2
+Y0sfFYUPAANk,"Music; Smash, crash; Whack, thwack; Whoosh, swoosh, swish; Boom","Whoosh, swoosh, swish",1.833,1,5,1
+Y0SLv6CmZas8,Speech; Music,Speech; Music; Rustling leaves,1.754,2,2,3
+Y0slyl34xWug,"Speech; Stream; Waterfall; Trickle, dribble; Water","Speech; Splash, splatter",1.742,1,5,2
+Y0SNhAKyXtC8,Zither; Music; Pizzicato; Harp; Musical instrument,Music; Traditional music,1.701,1,5,2
+Y0SnjS2w_c80,Music; Didgeridoo; Speech,Music; Didgeridoo,1.760,2,3,2
+Y0soVCtJgDTk,Music; Speech; Single-lens reflex camera,Music; Single-lens reflex camera,1.756,2,3,2
+Y0sPVAP17w2U,"Music; Musical instrument; Violin, fiddle; Sad music",Music; New-age music,1.683,1,4,2
+Y0ssOpzqkojU,Music; Electric piano; Piano; Keyboard (musical); Musical instrument; Theremin,Keyboard (musical); Harpsichord,1.665,1,6,2
+Y0sstijfm2nM,Music; Speech; Crowd; Whoop; Cheering; Singing,"Shout; Singing; Music; Inside, large room or hall; Inside, public space",1.805,2,6,5
+Y0sYXPO7lzco,"Speech; Vehicle; Bus; Car; Music; Traffic noise, roadway noise",Speech; Music; Vehicle; Bicycle,1.841,3,6,4
+Y0tgNg0MHgxc,"Speech; Music; Whack, thwack; Smash, crash; Thump, thud; Thunk",Wood; Splinter,1.662,0,6,2
+Y0TiEO149Ydc,Music; Singing; Female singing; Musical instrument; Guitar; Plucked string instrument; Child singing; Acoustic guitar; Strum; Speech,Music; Jazz,1.752,1,10,2
+Y0TKyCw1Ykq8,Vehicle; Car; Scrape; Car passing by; Skidding,Rustle,1.750,0,5,1
+Y0toUq9UHCSA,"Vehicle; Aircraft; Fixed-wing aircraft, airplane; Aircraft engine; Jet engine; Propeller, airscrew","Vehicle; Propeller, airscrew",1.829,2,6,2
+Y0trWdhSvab4,Music; Singing; Gospel music; Choir; Country; Rock and roll,Clapping; Music,1.723,1,6,2
+Y0TSOlaZXXM8,Music; Bass guitar; Musical instrument; Guitar; Plucked string instrument; Electric guitar,Music; Musical instrument; Plucked string instrument; Guitar; Bass guitar; Tapping (guitar technique),1.731,5,6,6
+Y0TV9zvfwFhs,Music; Rhythm and blues; Soul music,Male singing; Synthetic singing; Music,1.723,1,3,3
+Y0TvuLbDrd6g,"Animal; Dog; Domestic animals, pets; Canidae, dogs, wolves; Whimper (dog); Speech",Animal; Goat,1.895,1,6,2
+Y0U20V7Kh_kc,Speech; Wood; Tools,"Speech; Chink, clink",1.810,1,3,2
+Y0u5dddSWuj8,"Bagpipes; Music; Wind instrument, woodwind instrument; Speech","Wind instrument, woodwind instrument; Bagpipes",1.780,2,4,2
+Y0U7mQ5GYMX8,Music; Tabla; Carnatic music; Middle Eastern music; Singing; Music of Asia; Musical instrument; Percussion,Percussion; Tabla,1.851,2,8,2
+Y0U9_6RyH3_M,"Mouse; Rodents, rats, mice; Squeak; Music; Animal",Mouse,1.706,1,5,1
+Y0Ubu4BqSWmU,Music; Hip hop music; Rapping; Rhythm and blues,Music; Tender music,1.867,1,4,2
+Y0UF1FHDPM1A,"Speech; Slap, smack; Snicker; Chuckle, chortle",Speech; Snicker,1.839,2,4,2
+Y0unBNMBYhwQ,Music; Speech,Speech; Music; Crunch,1.686,2,2,3
+Y0V7-w8K3Fgw,"Speech; Inside, small room; Female speech, woman speaking","Speech; Chink, clink",1.552,1,3,2
+Y0VCK8rLKXKA,Music; Musical instrument; Guitar; Plucked string instrument; Strum; Acoustic guitar; Singing,Flamenco,1.750,0,7,1
+Y0vFPs6XsU_Q,Music; Singing; Music of Asia; Music of Bollywood; Pop music,Male singing; Female singing; Music,1.821,1,5,3
+Y0vg9qxNKXOw,Arrow; Speech; Chop,Speech; Skateboard; Slam,1.810,1,3,3
+Y0VjPCd62oKg,Quack; Duck; Music; Animal; Fowl; Honk,Duck; Music,1.759,2,6,2
+Y0VnKeRijmM8,"Speech; Music; Shatter; Inside, large room or hall; Breaking; Groan","Smash, crash",1.762,0,6,1
+Y0vSmiq7CrCk,"Neigh, whinny; Horse; Animal","Animal; Horse; Neigh, whinny",1.760,3,3,3
+Y0vXqf9ix8LE,Insect; Cricket; Speech; Animal,Insect; Cricket,1.807,2,4,2
+Y0W1sNicXboU,"Speech; Splash, splatter; Music; Stream; Slosh; Boat, Water vehicle; Vehicle","Speech; Music; Water; Splash, splatter",1.733,3,7,4
+Y0w7pCxwXzVc,Speech; Fire; Chop,Wind; Wind noise (microphone); Fire,1.775,1,3,3
+Y0wgqpjfTmJI,"Speech; Music; Sewing machine; Inside, small room",Speech; Music; Zipper (clothing),1.762,2,4,3
+Y0Wkk9iNzA9c,"Domestic animals, pets; Dog; Animal; Growling; Bark; Canidae, dogs, wolves; Bow-wow; Yip","Animal; Domestic animals, pets; Dog; Growling; Canidae, dogs, wolves",1.895,5,8,5
+Y0wM_qR6Yihk,Music; Musical instrument; Guitar; Jazz; Drum kit; Drum; Plucked string instrument,Swing music,1.724,0,7,1
+Y0wp4JNMogzQ,"Music; Piano; Keyboard (musical); Musical instrument; Marimba, xylophone; Glockenspiel; Electric piano; Mallet percussion; Ding-dong",Tubular bells,1.836,0,9,1
+Y0wYi8B9PXDY,Humming; Mantra,Humming; Music; Beatboxing,1.876,1,2,3
+Y0wzsE67O5tE,Music; Musical instrument; Guitar; Plucked string instrument; Electric guitar; Strum; Acoustic guitar; Bass guitar; Blues,Music; Musical instrument; Plucked string instrument; Ukulele,1.728,3,9,4
+Y0x82_HySIVU,Music; Musical instrument,Music; Vehicle; Bicycle,1.791,1,2,3
+Y0x9TnOQ5Nhw,"Bird; Pigeon, dove; Bird vocalization, bird call, bird song; Coo; Inside, small room; Speech","Bird; Bird vocalization, bird call, bird song; Pigeon, dove; Coo",1.847,4,6,4
+Y0xDlT_u31fg,"Emergency vehicle; Police car (siren); Siren; Vehicle; Fire engine, fire truck (siren); Ambulance (siren); Car; Motor vehicle (road)","Emergency vehicle; Fire engine, fire truck (siren); Siren",1.858,3,8,3
+Y0Xe2zCJNjvk,"Speech; Electric shaver, electric razor; Buzz; Music; Inside, small room",Speech; Buzz,1.876,2,5,2
+Y0XeH2s-LzZE,Speech; Plop,Speech; Music; Bouncing,1.808,1,2,3
+Y0XFFOBzJ3aw,Music; Music of Bollywood; Carnatic music; Flute; Singing,"Wind instrument, woodwind instrument; Flute",1.902,1,5,2
+Y0xGoUJpt6eQ,Speech; Animal; Stomach rumble,Stomach rumble,1.905,1,3,1
+Y0xm_4yGhHjc,"Speech; Animal; Domestic animals, pets",Squeal,1.943,0,3,1
+Y0XSNrKgA94g,Music; Speech; Rain; Rain on surface,Thunderstorm; Thunder,1.847,0,4,2
+Y0XTWdzBttaU,"Dial tone; Beep, bleep; Busy signal; Silence",Sidetone,1.791,0,4,1
+Y0XxinBtKouQ,Music; Banjo; Bluegrass; Musical instrument; Country; Singing; Guitar; Plucked string instrument,Music; Banjo; Rock and roll; Country; Bluegrass,1.809,4,8,5
+Y0Y8TTBlRKkQ,"Speech; Pink noise; Waterfall; Stream; Outside, rural or natural; Rain",Waterfall,1.828,1,6,1
+Y0Ycad70UNwE,Speech; Music; Male singing,Speech; Synthetic singing; Music,1.896,2,3,3
+Y0YIWrXgCjiM,Music; Speech; Swing music; Ska; Crowd,Choir; Male singing; Child singing; Music,1.882,1,5,4
+Y0YI_WYJVv2M,Hair dryer; Tools; Sheep; Sawing; Steam,Bleat; Sheep,1.733,1,5,2
+Y0ylr6p_m4p0,"Speech; Crumpling, crinkling; Inside, small room; Tearing; Whispering","Speech; Crunch; Inside, small room",1.801,2,5,3
+Y0yRQSlu-ooc,Music,Music; Zipper (clothing),1.789,1,1,2
+Y0YsC6M4GFoc,"Speech; Music; Outside, urban or manmade; Explosion; Vehicle; Hubbub, speech noise, speech babble; Chink, clink; Burst, pop; Toot",Speech; Bang,1.759,1,9,2
+Y0yT6ihPVX54,Music; Theme music; Angry music; Video game music,Music; Bang,1.845,1,4,2
+Y0yTfnhm-Ny0,Speech; Keys jangling,Speech; Crack,1.750,1,2,2
+Y0YTieIiZNN4,"Machine gun; Gunshot, gunfire; Speech","Gunshot, gunfire; Machine gun",1.737,2,3,2
+Y0yxJzCQW5zI,Whispering; Speech; Music,Whispering,1.818,1,3,1
+Y0Z760XNy4VM,Speech; Radio; Telephone,Speech; Mouse,1.781,1,3,2
+Y0ZAfYE4bgs8,"Speech; Telephone bell ringing; Music; Inside, small room","Speech; Telephone bell ringing; Inside, small room",1.794,3,4,3
+Y0zDEut-yfis,"Speech; Dishes, pots, and pans",Chop,1.699,0,2,1
+Y0zgffMTkGtU,"Speech; Female speech, woman speaking; Narration, monologue; Male speech, man speaking; Conversation",Speech; Shout,1.783,1,5,2
+Y0ZN2HKsFg4A,Music; Speech; Synthesizer; Sonar; Musical instrument; Electronic music; Sidetone,"Speech; Music; Sonar; Outside, urban or manmade",1.836,3,7,4
+Y0zP9jebYSrk,Music; Speech; Dial tone; Vehicle; Car,Speech; Sidetone,1.704,1,5,2
+Y0_1BfYtffzg,Speech; Rain on surface; Rain; Raindrop,Crushing,1.802,0,4,1
+Y0_8-g2rof7E,"Heart murmur; Heart sounds, heartbeat","Heart sounds, heartbeat",1.834,1,2,1
+Y0_9-dbUW0hU,Music; Video game music,Music; Musical instrument; Theremin,1.813,1,2,3
+Y0_B2YnBAz3A,Speech; Music; Sneeze; Gasp,Speech; Sneeze; Music,1.882,3,4,3
+Y0_FFqLukmHk,Sneeze; Laughter; Babbling; Breathing; Belly laugh,Sneeze,1.822,1,5,1
+Y0_gci63CtFY,"Fire engine, fire truck (siren); Vehicle; Truck; Emergency vehicle; Air horn, truck horn; Speech; Motor vehicle (road); Siren; Vehicle horn, car horn, honking","Speech; Air horn, truck horn",1.825,2,9,2
+Y0_O6nVfnCH8,"Speech; Splash, splatter; Child speech, kid speaking; Children playing; Water; Slosh","Speech; Child speech, kid speaking; Splash, splatter",1.742,3,6,3
+Y0_XItMAYkwc,Music; Speech; Rock and roll,Music; Jazz,1.834,1,3,2
+Y1-feQHDL-Qo,"Speech; Pink noise; Waterfall; Hubbub, speech noise, speech babble",Stream; Waterfall,1.813,1,4,2
+Y1-TnkdEPXEw,Snoring; Speech,Snoring,1.803,1,2,1
+Y1-WyAvPxqDM,Speech; Plop; Music,Speech; Plop,1.750,2,3,2
+Y1-Y9kafYuqQ,Music; Electronic music; Scratching (performance technique),Music; Scratch,1.742,1,3,2
+Y1-z7wzzstMs,"Vehicle; Car; Race car, auto racing; Tire squeal; Car passing by; Motor vehicle (road); Flap",Scrape,1.750,0,7,1
+Y1a-ODBWMUAE,Pink noise,Waterfall,1.778,0,1,1
+Y1A4faLHDx_U,Plop; Speech; Sigh,Silence,1.742,0,3,1
+Y1ACn3u5UnBw,Music; Electronic organ; Singing; Organ; Male singing; Speech; Hammond organ,Male singing; Music,1.791,2,7,2
+Y1aigfM5Tmqk,"Music; Speech; Jingle bell; Jingle, tinkle",Yodeling,1.791,0,4,1
+Y1Aokrz07aSA,Wheeze; Gasp,Pant,1.787,0,2,1
+Y1aZKmCUlXrY,"Ding-dong; Animal; Dog; Ding; Domestic animals, pets; Bark; Music; Doorbell; Clang",Flap,1.807,0,9,1
+Y1aZrc1oTbIo,Speech; Pour; Water; Liquid,Speech; Water; Pour,1.671,3,4,3
+Y1a_nvi4sW64,Music; Music of Asia; Pop music; Disco; Singing,Music; Pop music; Disco; Dance music,1.833,3,5,4
+Y1B-RuZgSqf8,Raindrop; Rain; Rain on surface; Water,Raindrop,1.794,1,4,1
+Y1bbyaXEVouE,Choir; Music; Singing; A capella; Chant,Choir; A capella; Crackle,1.812,2,5,3
+Y1bIH_Qh_clk,Frog; Music; Croak; Speech,Frog; Croak,1.762,2,4,2
+Y1bKf5nrT4DQ,"Speech; Toot; Vehicle; Vehicle horn, car horn, honking; Car; Outside, urban or manmade","Speech; Air horn, truck horn",1.800,1,6,2
+Y1bSP4wLfMpA,Music; Timpani; Speech; Scary music,Music; Scary music,1.772,2,4,2
+Y1btWmt9io-Y,Keys jangling; Speech; Vehicle; Car,Speech; Vehicle; Motor vehicle (road); Car; Keys jangling,1.776,4,4,5
+Y1BVSYfNCcv0,Music; Independent music,Music; Wedding music,1.682,1,2,2
+Y1BYZiONhW3c,Singing; Female singing; A capella; Choir; Vocal music; Music,Singing; Choir; Vocal music; A capella,1.784,4,6,4
+Y1cCg1Y7zDnM,"Drip; Water; Inside, small room; Bathtub (filling or washing); Gurgling","Thunk; Inside, small room",1.718,1,5,2
+Y1ceaatuz77k,"Artillery fire; Explosion; Gunshot, gunfire; Burst, pop; Eruption",Bang,1.620,0,5,1
+Y1CGx8zxQFx4,"Speech; Inside, small room",Speech; Rapping; Music; Television,1.699,1,2,4
+Y1cqcTbDxsHM,Sonar; Music; Electronic music; Synthesizer,Music; Theremin,1.790,1,4,2
+Y1CRvPsMwqrc,"Speech; Vehicle; Boat, Water vehicle",Speech; Duck; Quack,1.767,1,3,3
+Y1cwGW0cBdRs,"Music; Theremin; Musical instrument; Humming; Steel guitar, slide guitar",Music; Theremin,1.672,2,5,2
+Y1cwOR9WGLOw,Chop; Music; Chopping (food),Chopping (food),1.680,1,3,1
+Y1cxvg7qu0G0,"Speech; Firecracker; Fireworks; Machine gun; Gunshot, gunfire",Speech; Firecracker,1.704,2,5,2
+Y1D4LxbOVn1I,"Speech; Animal; Dog; Domestic animals, pets; Bow-wow; Bark; Yip; Canidae, dogs, wolves; Whimper (dog)","Speech; Animal; Domestic animals, pets; Dog; Yip; Bow-wow; Whimper (dog)",1.717,7,9,7
+Y1D6UsaTflJ8,"Bird; Pigeon, dove; Bird vocalization, bird call, bird song; Chirp, tweet; Coo; Music; Speech; Bird flight, flapping wings","Bird flight, flapping wings",1.673,1,8,1
+Y1De-OI8YG-M,Thunder; Thunderstorm; Rain; Rain on surface; Raindrop,Thunderstorm; Thunder; Rain; Rain on surface,1.627,4,5,4
+Y1dEobByUDYo,Music; Speech; Musical instrument; Guitar; Plucked string instrument; Acoustic guitar; Strum,Speech; Music; Jingle (music),1.683,2,7,3
+Y1dH-lZ8TNLU,Turkey; Gobble; Fowl; Bird,"Fowl; Turkey; Gobble; Bird; Bird vocalization, bird call, bird song",1.598,4,4,5
+Y1DNoynuGLV4,Music; Cash register,Music; Cash register,1.792,2,2,2
+Y1doTwVszic8,Speech; Vehicle; Car,Speech; Gurgling,1.704,1,3,2
+Y1DS0AE3vTwA,"Speech; Music; Child speech, kid speaking; Children playing; Jingle, tinkle; Music for children",Speech; Music; Bell,1.768,2,6,3
+Y1dt9eL2rmSY,"Music; Wild animals; Roar; Animal; Theremin; Roaring cats (lions, tigers); Organ",Whale vocalization; Music,1.629,1,7,2
+Y1DWt70gTqHc,Speech; Music; Busy signal; Dial tone; Sidetone,Speech; Music; Busy signal,1.722,3,5,3
+Y1dyFP4MGkIM,"Vehicle; Car; Race car, auto racing; Skidding; Tire squeal; Car passing by; Motor vehicle (road); Accelerating, revving, vroom",Vehicle; Motor vehicle (road); Car; Skidding,1.738,4,8,4
+Y1dzwFnXJ7_E,Tuning fork; Singing bowl,Tuning fork,1.756,1,2,1
+Y1e0_4dwF9A4,"Wild animals; Animal; Roar; Goose; Roaring cats (lions, tigers); Honk; Fowl; Bird; Bird vocalization, bird call, bird song; Turkey",Fowl; Goose; Honk,1.648,3,10,3
+Y1edm2kNMYZs,Wood; Splinter,Wood; Splinter,1.722,2,2,2
+Y1ED_uNM-KfE,"Train; Rail transport; Railroad car, train wagon; Vehicle; Train horn; Train whistle; Clickety-clack; Speech",Train whistle,1.701,1,8,1
+Y1EEy-aXHzRI,"Speech; Pour; Music; Trickle, dribble","Trickle, dribble",1.698,1,4,1
+Y1EH6atYydBc,Engine; Vehicle; Idling; Medium engine (mid frequency); Vibration; Power tool; Heavy engine (low frequency),Lawn mower,1.640,0,7,1
+Y1EiNSiO0UvU,"Speech; Hiss; Vehicle; Train; Rail transport; Steam; Railroad car, train wagon",Sneeze; Animal,1.704,0,7,2
+Y1ENC2smc8Ig,Printer,Printer,1.747,1,1,1
+Y1eP5LSjyge0,Hair dryer,Hair dryer,1.722,1,1,1
+Y1ETrMAVZdY8,"Bird; Coo; Pigeon, dove; Bird vocalization, bird call, bird song; Chirp, tweet","Bird; Bird vocalization, bird call, bird song; Chirp, tweet; Pigeon, dove; Coo",1.678,5,5,5
+Y1EuGaYmvlXM,Honk; Goose; Fowl; Speech,Fowl; Goose; Honk,1.855,3,4,3
+Y1EWkwWXwI1g,"Firecracker; Fireworks; Vehicle; Outside, urban or manmade",Speech; Firecracker,1.710,1,4,2
+Y1EZ1_l3MpWw,"Whip; Slap, smack; Whoosh, swoosh, swish","Slap, smack",1.239,1,3,1
+Y1F-jIu9oy6A,"Speech; Splash, splatter; Water; Slosh; Trickle, dribble","Speech; Splash, splatter",2.044,2,5,2
+Y1f-L1M-S6RQ,"Vehicle; Speech; Car; Race car, auto racing; Car passing by; Tire squeal","Speech; Vehicle; Tire squeal; Race car, auto racing; Accelerating, revving, vroom; Flap",1.700,4,6,6
+Y1F23RciUwDE,"Vehicle; Engine; Car; Idling; Engine starting; Medium engine (mid frequency); Heavy engine (low frequency); Accelerating, revving, vroom",Vehicle; Aircraft; Engine; Engine starting,1.741,3,8,4
+Y1F3_bvIT0ig,"Vehicle; Car; Music; Race car, auto racing; Tire squeal; Skidding; Car passing by; Motor vehicle (road)",Car passing by,1.583,1,8,1
+Y1F8hWMEtlZM,Vehicle; Car; Static; Music,Static,1.733,1,4,1
+Y1F9zCsJyw6k,"Vehicle; Car; Skidding; Speech; Police car (siren); Race car, auto racing; Siren; Emergency vehicle",Emergency vehicle; Police car (siren); Siren,1.717,3,8,3
+Y1FbxStVuFYU,"Boom; Music; Explosion; Eruption; Burst, pop","Burst, pop",1.721,1,5,1
+Y1fD5B_VGkQk,"Smash, crash; Music; Boom; Whack, thwack","Smash, crash",1.682,1,4,1
+Y1fDGejVDAHU,Chainsaw; Power tool; Tools; Sawing,Chainsaw,1.750,1,4,1
+Y1FnA3w94zXI,Music; Musical instrument; Guitar; Plucked string instrument; Tapping (guitar technique); Electric guitar; Strum; Speech; Acoustic guitar,Music; Electric guitar; Tapping (guitar technique),1.722,3,9,3
+Y1fSsCqTeqYM,"Dial tone; Speech; Telephone; Telephone dialing, DTMF; Inside, small room",Speech; Dial tone,1.681,2,5,2
+Y1FU5odlgLmo,Music; Banjo; Musical instrument; Plucked string instrument; Bluegrass; Country; Guitar; Mandolin,Yip; Music; Mandolin; Bluegrass,1.713,3,8,4
+Y1fwLpj3yVmU,Music; Mantra; Chant; Carnatic music; Singing; Music of Asia,"Synthetic singing; Music; Outside, urban or manmade",1.675,1,6,3
+Y1g0vAT8GHt0,Speech; Vehicle; Car; Bus,Speech; Whir,1.725,1,4,2
+Y1G4aDTUuo7g,Speech; Radio; Telephone,Radio,1.667,1,3,1
+Y1g6sdWOc9k4,Stream; Waterfall; Pink noise; Rain,Stream,1.687,1,4,1
+Y1G6wtnmdZhE,"Speech; Vehicle; Music; Car; Skidding; Race car, auto racing; Tire squeal",Car passing by,1.754,0,7,1
+Y1g7sOtOiSRo,Change ringing (campanology); Church bell; Bell; Music,Change ringing (campanology),1.733,1,4,1
+Y1g9FuuIIs84,Tick-tock; Tick,Creak,1.720,0,2,1
+Y1garMoYilAY,"Speech; Run; Outside, urban or manmade; Hubbub, speech noise, speech babble",Speech; Rustling leaves,1.891,1,4,2
+Y1gDNqOQFopY,Music; Musical instrument; Guitar; Singing; Plucked string instrument; Country; Acoustic guitar; Bluegrass; Banjo; Male singing,Singing; Yodeling; Music,1.740,2,10,3
+Y1GFclDpGhu0,Speech; Clapping; Tap,Speech; Bouncing,1.759,1,3,2
+Y1ghXWnSJibU,"Marimba, xylophone; Glockenspiel; Mallet percussion; Music; Chime; Bell; Musical instrument",Bicycle bell; Ding-dong,1.393,0,7,2
+Y1GMWn4IxVro,Sizzle; Frying (food); Stir; Speech; Music,Frying (food); Sizzle,1.709,2,5,2
+Y1GrCbwZIbwM,"Water tap, faucet; Water; Sink (filling or washing); Speech; Bathtub (filling or washing)","Water; Water tap, faucet; Bathtub (filling or washing)",1.790,3,5,3
+Y1GwY2n4HIM0,"Speech; Inside, small room; Sniff",Speech; Sniff,1.752,2,3,2
+Y1hABzqBHh7w,Music; Singing; Music of Latin America; Speech; Rock and roll; Maraca,Singing; Music; Music of Latin America; Ska,1.813,3,6,4
+Y1HayoASR-54,Car; Vehicle; Whir; Car passing by; Flap,Vehicle; Car; Tire squeal; Medium engine (mid frequency),1.868,2,5,4
+Y1hba9jmspEQ,Speech; Conversation,"Speech; Female speech, woman speaking; Scissors",1.872,1,2,3
+Y1hC6crefz0s,Music; Timpani; Gong,Music; Theme music; Video game music; Tick,1.739,1,3,4
+Y1hDTYgABDRg,"Music; Speech; Singing; Crowd; Bang; Cheering; Whoop; Heart murmur; Heart sounds, heartbeat",Synthetic singing; Music,1.724,1,9,2
+Y1heMbyumHAo,Music; Music of Africa; Reggae; Soul music,Music; Rhythm and blues; Music of Africa,1.837,2,4,3
+Y1hIg-Lsvc7Q,"Vehicle; Car; Traffic noise, roadway noise; Bus; Motor vehicle (road)","Vehicle; Car; Bus; Traffic noise, roadway noise; Accelerating, revving, vroom",1.804,4,5,5
+Y1hJnxzlxnQs,Music; Speech; Vehicle; Boom,Car passing by,1.836,0,4,1
+Y1hknEtsmdOc,Speech; Vehicle; Music,Car passing by,1.863,0,3,1
+Y1hMZbDz2KH8,Buzzer; Alarm; Fire alarm; Vehicle,Fire alarm,1.677,1,4,1
+Y1HNGJDppKG0,"Speech; Chatter; Inside, public space; Outside, urban or manmade; Inside, large room or hall",Speech; Chatter,1.732,2,5,2
+Y1HOdnni3Fl4,Jackhammer; Engine knocking; Lawn mower; Engine; Vehicle,Jackhammer,1.807,1,5,1
+Y1hoUEfsTmdE,"Music; Child singing; Singing; Inside, small room; Speech",Female singing; Child singing; Music,1.855,2,5,3
+Y1hUNSCMZi9o,"Bird; Pigeon, dove; Coo; Bird vocalization, bird call, bird song; Speech; Inside, small room","Speech; Telephone dialing, DTMF; Inside, large room or hall",1.817,1,6,3
+Y1hWAOReJehw,Carnatic music; Music; Classical music; Musical instrument; Singing; Tabla; Music of Asia; Percussion,Singing; Music; Musical instrument; Percussion; Tabla; Classical music,1.762,6,8,6
+Y1hwkxJOl1PY,Speech; Bicycle; Animal; Vehicle; Horse,"Speech; Animal; Roaring cats (lions, tigers); Outside, rural or natural",1.888,2,5,4
+Y1HzPf-GXyls,Speech; Music; Typewriter,Speech; Shuffling cards,1.839,1,3,2
+Y1i1sbQOILb0,Music; Jingle (music); Funny music; Swing music; Singing,Music; Traditional music,1.845,1,5,2
+Y1I5QQBbZP8g,Crowd; Battle cry; Cheering,Battle cry; Crowd,1.796,2,3,2
+Y1ILADUzj-M0,"Crumpling, crinkling; Speech; Inside, small room; Tearing","Speech; Crumpling, crinkling; Inside, small room",1.731,3,4,3
+Y1IlgE0S4t3E,Bicycle bell; Vehicle,Bell; Tools,1.946,0,2,2
+Y1IQdvfm9SDY,"Speech; Run; Crowd; Outside, urban or manmade; Chop",Speech; Vehicle; Bicycle,1.850,1,5,3
+Y1iqVk7kMnJQ,Chainsaw; Power tool; Vehicle; Tools; Lawn mower; Engine,"Idling; Thump, thud",1.781,0,6,2
+Y1IrYZhVhN1s,"Speech; Plop; Whoosh, swoosh, swish; Music; Whack, thwack","Whoosh, swoosh, swish",1.719,1,5,1
+Y1ISlTAGBMhs,"Engine; Vehicle; Idling; Vibration; Car; Medium engine (mid frequency); Engine knocking; Engine starting; Light engine (high frequency); Accelerating, revving, vroom",Engine; Idling; Noise,1.771,2,10,3
+Y1isuXShxzOY,"Music; Glockenspiel; Marimba, xylophone; Mallet percussion; Alarm clock; Ding-dong",Telephone bell ringing; Sound effect,1.792,0,6,2
+Y1J-E-QqJdkg,Speech; Air conditioning,Speech; Television,1.706,1,2,2
+Y1j13NdQiw8c,Music; Steelpan; Musical instrument; Drum; Drum kit; Percussion; Guitar,Music; Steelpan,1.736,2,7,2
+Y1J4FXUMOw8k,Music; Speech,"Whack, thwack; Smash, crash",1.750,0,2,2
+Y1j4rFfU5XKQ,Music; Electronic music; Techno,Music; Techno; Electronic dance music; Trance music; Dance music,1.961,2,3,5
+Y1jhbNtCWC9w,Civil defense siren; Siren,Siren; Civil defense siren,1.846,2,2,2
+Y1JHB_-LCoNA,Speech,"Whoosh, swoosh, swish",1.712,0,1,1
+Y1JpeDWbgUO8,Music; Rock and roll; Singing; Jingle (music); Pop music,Whoop; Music,1.894,1,5,2
+Y1jq7zSF_v7s,"Speech; Inside, small room; Drawer open or close; Door","Speech; Drawer open or close; Inside, small room",1.843,3,4,3
+Y1JSbmO1NQzk,Cricket; Insect,Insect; Cricket,1.755,2,2,2
+Y1Jtg95iZyoQ,"Groan; Speech; Screaming; Inside, small room",Grunt; Roar,1.683,0,4,2
+Y1jTQsVs5iWM,"Speech; Giggle; Laughter; Inside, small room; Snicker; Belly laugh","Speech; Walk, footsteps",1.767,1,6,2
+Y1J_j6c2uQaM,Rain; Thunderstorm; Thunder; Speech; Rain on surface; Raindrop,Thunderstorm; Thunder; Rain,1.775,3,6,3
+Y1kcjIUL51AI,"Vehicle; Accelerating, revving, vroom; Car; Speech; Clatter; Medium engine (mid frequency)",Rumble,1.753,0,6,1
+Y1KiFXylkPpg,Music; Organ; Musical instrument; Keyboard (musical); Electronic organ; Piano; Electric piano,Organ; Electronic organ,1.760,2,7,2
+Y1kkWt3ktlBA,"Cap gun; Gunshot, gunfire; Whip",Whip,1.727,1,3,1
+Y1KLmIS-v60U,"Train; Rail transport; Railroad car, train wagon; Vehicle; Train horn; Toot; Vehicle horn, car horn, honking; Clickety-clack; Subway, metro, underground","Vehicle; Toot; Rail transport; Train; Railroad car, train wagon",1.849,5,9,5
+Y1KmsVHx7E2c,Music; Theme music; Scary music; Boom,Music; Scary music,1.795,2,4,2
+Y1KpvQAM14Ic,"Speech; Waterfall; Slosh; Water; Splash, splatter",Waterfall,1.706,1,5,1
+Y1kUeturqXOE,"Music; Thump, thud; Screaming; Shatter; Speech",Music; Squeal,1.733,1,5,2
+Y1KXi48OobbU,"Whack, thwack; Music; Insect",Ding; Clang,1.682,0,3,2
+Y1L1iOYth3-E,Tap,Crushing,1.717,0,1,1
+Y1LA8BxMlXSY,Police car (siren); Siren; Ambulance (siren); Emergency vehicle; Machine gun,Emergency vehicle; Police car (siren); Ambulance (siren); Siren,1.691,4,5,4
+Y1lCus68cAOc,"Speech; Domestic animals, pets; Animal; Dog; Whimper (dog); Inside, small room; Growling",Speech; Whimper (dog),1.719,2,7,2
+Y1lgqqW5TsJk,Music; Speech; Electronic music; Techno; House music,Music; Disco; Techno; Electronic dance music,1.758,2,5,4
+Y1lIMpk5-2Oc,"Speech; Eruption; Vehicle; Aircraft; Explosion; Fixed-wing aircraft, airplane",Speech; Eruption,1.711,2,6,2
+Y1lLobOtsIFA,Waterfall; Speech; Slosh; Water; Stream,Waterfall,1.786,1,5,1
+Y1Lqa2jDTnns,Speech; Shatter; Music; Mechanisms,Speech; Microwave oven,1.693,1,4,2
+Y1LTxZ2aNytc,Speech; Animal; Goat; Bleat; Sheep; Screaming,Screaming,1.729,1,6,1
+Y1MeeK0kD_ys,Single-lens reflex camera; Music; Speech; Camera,Speech; Music; Single-lens reflex camera,1.718,3,4,3
+Y1mfghenMj_E,Fireworks; Firecracker,Fireworks,1.765,1,2,1
+Y1MgcrYdYas0,Chainsaw; Power tool; Tools; Sawing; Wood,Chainsaw; Idling; Vibration,1.736,1,5,3
+Y1mHYYrMD0gU,Music; Musical instrument; Guitar; Rock music; Plucked string instrument; Singing; Psychedelic rock,Music; Radio,1.704,1,7,2
+Y1MRlrSLSN84,Knock; Music,Knock,1.317,1,2,1
+Y1MTKUN3uFrs,Speech; Cricket; Insect; Hiss,"Speech; Fireworks; Outside, rural or natural",1.744,1,4,3
+Y1MwaXCfUvX8,Music; Rock music; Musical instrument; Drum kit; Singing; Guitar; Heavy metal; Drum; Rock and roll; Punk rock,Singing; Music; Guitar; Rock and roll; Roll,1.753,4,10,5
+Y1mWznF79X2o,"Speech; Vehicle; Ocean; Waves, surf; Boat, Water vehicle; Motorboat, speedboat; Car",Speech; Music; Gurgling,1.671,1,7,3
+Y1nbCJJtsruI,"Music; Wind instrument, woodwind instrument; Clarinet; Musical instrument; Saxophone",Brass instrument; Saxophone,1.803,1,5,2
+Y1nd-4Deqkro,"Jackhammer; Music; Machine gun; Gunshot, gunfire",Music; Jackhammer,1.690,2,4,2
+Y1nGKDBEh3rs,Speech; Sniff; Animal,Speech; Sniff,1.729,2,3,2
+Y1NkUBIl2Plw,Rain; Music; Thunderstorm; Thunder; Rain on surface,Rain; Raindrop; Rain on surface,1.664,2,5,3
+Y1nKxptqHGyY,Speech; Hiccup,Speech; Hiccup,1.734,2,2,2
+Y1NMDi2ZmUdo,Speech; Clicking; Sigh,Speech; Sigh,1.744,2,3,2
+Y1nNXaI04SEg,"Chewing, mastication; Crunch; Inside, small room; Biting","Chewing, mastication; Biting; Crunch",1.681,3,4,3
+Y1nUqhH8bAPk,"Music; Christmas music; Music for children; Christian music; Singing; Jingle, tinkle; Jingle (music)",Child singing; Music,1.781,1,7,2
+Y1NWxg_BnJ0A,Shatter; Music; Speech,"Speech; Chink, clink",1.747,1,3,2
+Y1Ny5ZlcBlcQ,"Speech; Bird vocalization, bird call, bird song; Bird; Animal; Chirp, tweet","Boat, Water vehicle; Rowboat, canoe, kayak",1.740,0,5,2
+Y1n_s2Gb5R1Q,"Vehicle; Buzzer; Smoke detector, smoke alarm; Beep, bleep; Car alarm; Reversing beeps",Vehicle; Reversing beeps,1.795,2,6,2
+Y1O-WeYTRS4w,Cowbell; Drum; Drum kit; Percussion; Snare drum; Bass drum; Rimshot; Cymbal; Hi-hat; Music,Cowbell,1.753,1,10,1
+Y1o5tdZT6kw8,"Tearing; Inside, small room; Crumpling, crinkling","Hands; Inside, small room",1.756,1,3,2
+Y1OFDyTzUj24,"Speech; Male speech, man speaking; Narration, monologue","Speech; Male speech, man speaking; Conversation",1.769,2,3,3
+Y1OFOElP7bqc,Speech; Stream; Slosh,Stream,1.749,1,3,1
+Y1oHVE6DeIlc,Speech; Music; Door,Wood; Chop,1.681,0,3,2
+Y1oJAVJPX0YY,"Hiss; Steam; Steam whistle; Rail transport; Train; Railroad car, train wagon; Clickety-clack","Rail transport; Train; Train whistle; Railroad car, train wagon; Clickety-clack",1.765,4,7,5
+Y1OpNI5DjxC0,Dial tone; Synthesizer; Busy signal; White noise,Synthesizer; Whir,1.706,1,4,2
+Y1Oq1Z8SZNyM,Speech; Music; Liquid; Drip; Fill (with liquid),Speech; Music; Squish,1.724,2,5,3
+Y1OU19ANx4fg,Speech; Single-lens reflex camera; Camera; Music,Speech; Music; Single-lens reflex camera,1.702,3,4,3
+Y1OukV4Q7o8Q,"Wood; Splinter; Crushing; Vehicle; Rain; Wind; Motorboat, speedboat",Crushing,1.672,1,7,1
+Y1owKdIYYYeg,"Pink noise; Ocean; Waves, surf","Wind; Ocean; Waves, surf",1.646,2,3,3
+Y1p9rsIR1ezk,"Air horn, truck horn; Speech; Music; Vehicle; Fire engine, fire truck (siren); Emergency vehicle; Vehicle horn, car horn, honking; Truck; Toot; Siren",Speech; Music; Squeak,1.678,2,10,3
+Y1PAb2MoavDc,"Insect; Fly, housefly; Bee, wasp, etc.; Speech; Mosquito","Insect; Fly, housefly; Bee, wasp, etc.",1.703,3,5,3
+Y1PDg2ENa7jk,"Music; New-age music; Chime; Jingle, tinkle",Music; Ping,1.669,1,4,2
+Y1PKxdTlquCA,Music; Dance music; Pop music; Disco; House music; Singing,Music; Pop music; Rhythm and blues; Disco; Afrobeat; Dance music,1.766,4,6,6
+Y1PN-bfs2EhY,Music; Child singing; Singing; Musical instrument,Child singing; Music,1.659,2,4,2
+Y1PPboJuO1Ks,"Music; Speech; Neigh, whinny","Speech; Neigh, whinny; Music",1.626,3,3,3
+Y1pR0SgbqP3M,Music; Punk rock; Rock and roll; Exciting music,"Music; Burst, pop",1.750,1,4,2
+Y1PSzSTilu_s,Music; Speech; Country; Musical instrument; Guitar; Plucked string instrument; Bluegrass,Music; Funny music,1.895,1,7,2
+Y1pViEqMXJH0,Printer,Printer,1.828,1,1,1
+Y1PZAgEP1Xhc,"Hands; Speech; Clapping; Inside, small room; Singing","Speech; Hands; Inside, small room",1.795,3,5,3
+Y1Q1pDQzTW6c,Music; Soul music; Singing; Rhythm and blues,Christian music,1.785,0,4,1
+Y1q8kkQhS97g,Drum kit; Drum; Snare drum; Bass drum; Percussion; Rimshot; Cymbal; Music; Drum roll; Hi-hat,Cymbal; Hi-hat,1.744,2,10,2
+Y1Q9DXhXMSFI,Music; Singing; Pop music; Rock and roll; Music of Asia; Ska,Music; Pop music; Ska,1.788,3,6,3
+Y1QtsF8qkX1Y,Rain; Thunderstorm; Music; Rain on surface; Thunder; Raindrop; Vehicle,Thunderstorm; Thunder; Rain; Raindrop,1.774,4,7,4
+Y1rhsnmWLeGw,Music; Lullaby; Music for children; Singing,Music; Song; Lullaby,1.838,2,4,3
+Y1RhYdQnZ_hw,Music; Child singing; Female singing; Guitar; Musical instrument; Singing; Plucked string instrument,Female singing; Music,1.737,2,7,2
+Y1rJIR1G1OnY,Music; Speech; Child singing; Singing; Female singing,"Speech; Singing; Synthetic singing; Music; Inside, public space",1.812,3,5,5
+Y1rJWW_KqeAw,Percussion; Drum; Music; Snare drum; Drum roll; Bass drum; Wood block; Rimshot; Drum kit,Percussion; Drum; Snare drum; Drum roll; Bass drum,1.788,5,9,5
+Y1rpGmbCIBqs,"Vehicle; Jet engine; Accelerating, revving, vroom; Engine; Car; Medium engine (mid frequency)",Heavy engine (low frequency),1.740,0,6,1
+Y1rtXsGC-q3Q,"Vehicle; Car; Accelerating, revving, vroom; Medium engine (mid frequency); Engine","Vehicle; Engine; Heavy engine (low frequency); Engine starting; Accelerating, revving, vroom",1.718,3,5,5
+Y1RW3nDRmu6k,Music; Speech; Opera,Speech; Music; Tender music,1.743,2,3,3
+Y1RwhRTe-OKk,Music; Harpsichord; Musical instrument; Keyboard (musical); Guitar; Plucked string instrument; Piano,Music; Tapping (guitar technique); Banjo,1.778,1,7,3
+Y1s-oXryGnCw,Music; Speech; Boing,Speech; Conversation,1.762,1,3,2
+Y1s8ErA1OMTw,"Water; Speech; Water tap, faucet; Sink (filling or washing); Liquid; Gush",Speech; Water; Gush,1.634,3,6,3
+Y1sBp9KhJbp4,"Music; Drum; Musical instrument; Percussion; Snare drum; Drum kit; Drum roll; Wood block; Inside, small room; Bass drum",Percussion; Drum; Wood block,1.658,3,10,3
+Y1sdKPEwPtrg,"Animal; Domestic animals, pets; Speech; Dog; Bird; Snort",Bird; Crow,1.741,1,6,2
+Y1SfwYQ92l6Y,"Speech; Music; Thunk; Inside, small room","Speech; Music; Thunk; Outside, rural or natural",1.766,3,4,4
+Y1SLrRllxMkU,Speech; Alarm clock; Music,"Speech; Alarm clock; Inside, small room",1.710,2,3,3
+Y1SqihV_DnEg,"Music; Jingle, tinkle; Christmas music; Glockenspiel; Marimba, xylophone; Mallet percussion",Music; Song; Jingle (music); Lullaby,1.710,1,6,4
+Y1ssmAAcX5u8,Bouncing; Basketball bounce,Bouncing,1.748,1,2,1
+Y1SvA8MMap-A,Cowbell,Bell,1.672,0,1,1
+Y1T1RlQPE9sE,Music; Speech; Musical instrument; Drum machine; Synthesizer,Speech; Heart murmur; Music,1.768,2,5,3
+Y1T790GA0vkI,Speech; Tick-tock; Tick; Clock; Typewriter,Mechanisms; Gears,1.756,0,5,2
+Y1TAOyk0Xgss,"Speech; Vacuum cleaner; Drill; Tools; Hair dryer; Blender; Inside, small room; Power tool",Vacuum cleaner,1.736,1,8,1
+Y1tBzq-7MUJU,Tick-tock; Patter; Tick,Tick-tock,1.626,1,3,1
+Y1tC7bTilFWk,"Animal; Cat; Domestic animals, pets; Caterwaul; Meow; Speech","Animal; Domestic animals, pets; Caterwaul",1.720,3,6,3
+Y1Tg9VvRZN5k,"Train; Railroad car, train wagon; Rail transport; Train wheels squealing; Subway, metro, underground; Speech; Vehicle; Clickety-clack","Rail transport; Train; Railroad car, train wagon; Train wheels squealing; Subway, metro, underground",1.799,5,8,5
+Y1Thl21awe2g,Vehicle; Jackhammer; Engine; Engine knocking; Vibration,Rattle; Engine knocking,1.767,1,5,2
+Y1tjJmArxVBM,Waterfall; Speech; Pink noise,Rustling leaves,1.792,0,3,1
+Y1tNkAc29aPE,Music; Distortion; Guitar; Effects unit; Musical instrument; Plucked string instrument; Electric guitar; Chorus effect,Music; Guitar; Effects unit; Chorus effect; Echo,1.682,4,8,5
+Y1tobDIRRV0A,Crow; Speech; Caw; Animal; Bird,Speech; Crow; Caw,1.696,3,5,3
+Y1TP8JyI5vHI,Music; Shatter,Animal; Duck; Quack; Music,1.653,1,2,4
+Y1tQQMIQrSPo,Dial tone; Speech; Telephone,Speech; Dial tone,1.772,2,3,2
+Y1TxC-sdO2rY,"Speech; Slap, smack","Slap, smack",1.775,1,2,1
+Y1TyOPtg0Yfk,Music; Middle Eastern music; Singing; Speech; Carnatic music; Folk music,Music; Carnatic music,1.687,2,6,2
+Y1tz4xNRRR4M,"Glockenspiel; Mallet percussion; Marimba, xylophone; Chime; Speech; Music; Jingle, tinkle","Music; Vibraphone; Inside, large room or hall",1.687,1,7,3
+Y1Tzq_XIAMvs,Music; Speech,Music; Gurgling,1.748,1,2,2
+Y1U38Q2MpYM4,"Vehicle; Boat, Water vehicle; Motorboat, speedboat; Ocean; Wind; Waves, surf; Sailboat, sailing ship; Wind noise (microphone)","Wind; Wind noise (microphone); Boat, Water vehicle; Ship",1.720,3,8,4
+Y1UCNBHZQNVM,Speech; Music; Boom,Speech; Music; Bang,1.670,2,3,3
+Y1Ue2DkG64r8,Speech; Vehicle; Engine; Bicycle; Idling; Vibration; Car; Engine knocking; Rattle; Engine starting,Speech; Gurgling,1.736,1,10,2
+Y1UFU5SfQOX4,Vehicle; Engine; Vibration; Tools,Tools; Power tool; Drill,1.669,1,4,3
+Y1uHF1-8TcEk,Music; Choir; Classical music; Musical instrument; Orchestra; Singing; Opera,Humming; Music,1.687,1,7,2
+Y1uhuVsFGe6E,"Speech; Children playing; Child speech, kid speaking; Music; Inside, large room or hall; Inside, small room","Child speech, kid speaking; Children playing; Music; Water",1.779,3,6,4
+Y1Uj_ulATth0,"Environmental noise; Speech; Outside, rural or natural; Pink noise; Bird vocalization, bird call, bird song; Bird","Bird; Bird vocalization, bird call, bird song; Chirp, tweet; Waterfall",1.718,2,6,4
+Y1UK8f9G7kLc,"Vehicle; Motorcycle; Accelerating, revving, vroom; Medium engine (mid frequency); Engine; Idling; Outside, urban or manmade",Grunt,1.713,0,7,1
+Y1uLkSMHxvZY,Zither; Pizzicato; Music; Speech; Harp,Zither; Pizzicato,1.766,2,5,2
+Y1uMME28t_uw,"Music; Gunshot, gunfire; Machine gun; Fusillade",Music; Vehicle; Fusillade,1.653,2,4,3
+Y1uRrh2ZClNY,Speech; Music; Clapping; Hands,Clapping,1.686,1,4,1
+Y1UViJ9heiak,"Smash, crash; Music; Whack, thwack; Speech",Music; Fusillade,1.698,1,4,2
+Y1UXOJ3IACj4,Speech; Music; Vehicle,Speech; Music; Ringtone,1.587,2,3,3
+Y1u_8Qg1npAM,"Sine wave; Chirp tone; Smoke detector, smoke alarm; Beep, bleep","Smoke detector, smoke alarm; Sonar",1.638,1,4,2
+Y1V-rFaIWnzU,"Music; Singing; Speech; Shout; Whoop; Pop music; Crowd; Inside, large room or hall; Bang","Speech; Shout; Singing; Music; Inside, large room or hall",1.730,5,9,5
+Y1V7ReAk9k-4,Music; Rapping; Hip hop music; Pop music; Zing; Singing,Music; Afrobeat,1.761,1,6,2
+Y1V9CWQNZRF8,"Music; Vehicle; Synthesizer; Noise; Motorboat, speedboat; Electronic music; Boat, Water vehicle","Vehicle; Propeller, airscrew",1.656,1,7,2
+Y1vrR6Im_RDo,Female singing; Speech; Singing,Female singing,1.735,1,3,1
+Y1VRZ08sblVw,"Animal; Pig; Speech; Oink; Domestic animals, pets","Animal; Pig; Roar; Inside, large room or hall",1.688,2,5,4
+Y1vTcgIFYqS0,Wood; Splinter; Vehicle,Wood; Splinter,1.790,2,3,2
+Y1VTxnf2hZ0w,Speech; Vehicle; Engine; Lawn mower; Light engine (high frequency); Car,Mechanical fan,1.661,0,6,1
+Y1W-KLZJwXkc,Speech; Music; Vehicle; Car,Speech; Shuffle; Music,1.690,2,4,3
+Y1W2FOzSXsxs,Music; Female singing; Child singing; Singing; Musical instrument; Guitar,Child singing; Music,1.673,2,6,2
+Y1W4p9dUBNkA,Vehicle; Speech; Truck; Air brake; Bus; Car; Motor vehicle (road),Fire,1.763,0,7,1
+Y1wdCX1HmRyk,"Speech; Cutlery, silverware; Dishes, pots, and pans; Hammer",Insect; Cricket; Hammer,1.691,1,4,3
+Y1WGmeX6CLas,Speech; Groan; Music; Whoop,Speech; Whoop,1.315,2,4,2
+Y1WI9921OeRc,Speech; Music; Grunt; Thunk,"Burping, eructation",1.749,0,4,1
+Y1WKvCCz-NZU,Music; Speech; Dial tone; Sidetone,"Speech; Music; Busy signal; Inside, small room",1.776,2,4,4
+Y1WlvXneu6oY,Music; Piano; Electric piano; Keyboard (musical); Musical instrument,Music; Sad music,1.706,1,5,2
+Y1woaZGPrY9g,"Vehicle; Car; Race car, auto racing; Tire squeal; Skidding; Car passing by; Speech; Motor vehicle (road)",Car passing by,1.603,1,8,1
+Y1wqJ9KDfcME,Drum kit; Drum; Snare drum; Cymbal; Hi-hat; Music; Bass drum; Musical instrument; Percussion; Rimshot,Percussion; Drum kit; Drum; Rimshot; Bass drum; Cymbal; Hi-hat,1.752,7,10,7
+Y1WuGGd6NqGk,Music; Synthesizer; Electronic music; Musical instrument; Siren,Sine wave; Chirp tone,1.730,0,5,2
+Y1Wy75ZQz9rg,Music; Thunk; Speech; Musical instrument,"Music; Thump, thud",1.704,1,4,2
+Y1X0VCv-S2H8,"Music; Whack, thwack; Smash, crash; Speech","Smash, crash",1.696,1,4,1
+Y1xhSBniwGbM,Speech; Music; Opera; Singing; Male singing,Male singing; Synthetic singing,1.701,1,5,2
+Y1xIGyp9efXU,Music; Progressive rock; Musical instrument; Psychedelic rock; Guitar; Rock music,Psychedelic rock,1.702,1,6,1
+Y1Xmw9VUzvLY,Cough; Throat clearing; Bird,Cough; Bird,1.663,2,3,2
+Y1XO0SqsZhHU,Rain; Thunderstorm; Thunder; Rain on surface; Raindrop,Wind; Wind noise (microphone); Rain; Raindrop; Rain on surface,1.680,3,5,5
+Y1xRNQCP4MbE,"Music; Speech; Singing; Child singing; Baby cry, infant cry; Crying, sobbing; Inside, small room",Speech; Female singing; Child singing; Music,1.895,3,7,4
+Y1xRv-LwycNA,"Speech; Thump, thud; Music",Explosion,1.864,0,3,1
+Y1Xtkou9dtyA,Music; Psychedelic rock; Rock music; Swing music,Music; Rhythm and blues; Soul music; Ska,1.831,1,4,4
+Y1xYpHbg0fEE,"Child singing; Singing; Female singing; Inside, small room",Female singing,1.802,1,4,1
+Y1y7VNxjEC_U,"Smash, crash; Whack, thwack; Music","Whack, thwack; Smash, crash",1.960,2,3,2
+Y1YFa9CpH7Kc,"Livestock, farm animals, working animals; Cowbell; Cattle, bovinae; Moo; Music","Livestock, farm animals, working animals; Cattle, bovinae; Moo; Cowbell",1.804,4,5,4
+Y1yGWdegJjA4,Music; Drum and bass; Electronic music; Dubstep; Techno; Trance music; Electronic dance music,"Music; House music; Techno; Dubstep; Electronic dance music; Dance music; Burst, pop",1.842,4,7,7
+Y1yKGjTOk7NY,"Child singing; Singing; Inside, small room; Hands",Child singing,1.864,1,4,1
+Y1yNBf7QG__4,"Speech; Animal; Domestic animals, pets; Cat",Speech; Clip-clop,1.807,1,4,2
+Y1YRhxCXCM0o,Water; Gush,Water; Sink (filling or washing),1.814,1,2,2
+Y1yuL1ZCSS4I,Speech; Music,Speech; Music; Air brake,1.820,2,2,3
+Y1YWeSXAXwQE,"Burping, eructation","Burping, eructation",1.755,1,1,1
+Y1yWGmdevTuM,Music; Didgeridoo; Musical instrument,Music; Didgeridoo,1.971,2,3,2
+Y1Z0G4O0lVwA,Music; Speech,Speech; Music; Sidetone,2.078,2,2,3
+Y1Z4x67dhw-s,Rub; Wood; Sawing; Filing (rasp); Speech,Sanding; Wood; Rub,2.085,2,5,3
+Y1z5KCCduAUM,"Speech; Drawer open or close; Inside, small room",Speech; Shuffling cards,1.911,1,3,2
+Y1Z8MIXXDPls,Steam; Hiss; Vehicle; Train,Hiss; Steam,1.929,2,4,2
+Y1ZaxqZMs21M,Music; Singing; Rock and roll; Rock music; Musical instrument; Roll; Guitar; Psychedelic rock,"Singing; Music; Musical instrument; Rock music; Roll; Inside, large room or hall",2.001,5,8,6
+Y1ZEzs9zmZaU,Whip,"Gunshot, gunfire; Whip",1.982,1,1,2
+Y1ZgXgyEJSbc,Music; Tabla; Percussion; Drum; Musical instrument; Singing,Percussion; Drum; Tabla,2.035,3,6,3
+Y1ZHnWpLQtyo,Speech; Telephone; Radio,Speech; Radio,1.972,2,3,2
+Y1zIoNTdug0U,Speech; Vehicle; Car,Speech; Run,1.609,1,3,2
+Y1ZS9EQzbAbM,Sawing; Wood; Rub; Tools; Power tool,Sawing; Wood,1.988,2,5,2
+Y1ztMYYV7TVY,Speech; Music; Rain,Speech; Music; Gurgling,1.955,2,3,3
+Y1_7BKFMJrYA,Speech; Waterfall; Stream; Vehicle,Speech; Gurgling,1.900,1,4,2
+Y1_hGvbEiYAs,"Vehicle; Speech; Helicopter; Boat, Water vehicle; Wind",Vehicle; Bicycle,1.907,1,5,2
+Y1_knvtpENoQ,Speech; Dial tone; Busy signal,Busy signal,1.801,1,3,1
+Y1_Q80fDGLRM,"Speech; Animal; Domestic animals, pets; Dog; Bow-wow; Yip; Whimper (dog); Bark; Canidae, dogs, wolves; Growling","Speech; Animal; Domestic animals, pets; Dog; Bark; Yip; Bow-wow",1.919,7,10,7
+Y1_Yd3NwpP7M,Singing bowl; Music; Musical instrument,Singing bowl,2.046,1,3,1
+Y2-h8MRSRvEg,"Emergency vehicle; Vehicle; Fire engine, fire truck (siren); Siren; Ambulance (siren); Truck; Motor vehicle (road); Car; Speech; Air horn, truck horn","Emergency vehicle; Police car (siren); Fire engine, fire truck (siren); Siren",1.818,3,10,4
+Y2-XyCIq8Yp0,"Child singing; Speech; Singing; Inside, small room; Child speech, kid speaking","Speech; Child speech, kid speaking; Child singing",1.730,3,5,3
+Y2-Yz378XB2Q,"Vehicle; Truck; Car; Bus; Air brake; Train; Rail transport; Motor vehicle (road); Railroad car, train wagon; Engine",Vehicle; Truck; Air brake,1.837,3,10,3
+Y2A63oYgod8Y,"Cap gun; Speech; Gunshot, gunfire; Arrow","Gunshot, gunfire; Cap gun",1.927,2,4,2
+Y2a7GgnHA8qY,Rub; Wood; Sawing; Filing (rasp); Vehicle; Speech; Tools,Noise; Cacophony,1.765,0,7,2
+Y2A7xNU3TtbA,Speech; Laughter; Screaming; Fart,Speech; Wheeze,1.944,1,4,2
+Y2aExs2j1s3E,"Speech; Drip; Inside, small room; Water; Liquid; Fill (with liquid)",Speech; Liquid; Fill (with liquid),1.855,3,6,3
+Y2AMP3JIL330,Speech,Bouncing,1.914,0,1,1
+Y2aO0HKIP3vI,"Heart murmur; Heart sounds, heartbeat; Speech","Heart sounds, heartbeat",1.790,1,3,1
+Y2aPVOidHLXI,Music; Angry music; Heavy metal,Music; Angry music,1.852,2,3,2
+Y2ATMQxWVpXk,Music; Groan,Music; Angry music,1.891,1,2,2
+Y2ATRc7EonvI,"Speech; Ocean; Waves, surf; Waterfall; Vehicle; Pink noise; Wind",Stream,1.881,0,7,1
+Y2B-xGbzOjYY,Speech; Music; Zither; Banjo; Musical instrument; Pizzicato; Mandolin; Bell,Speech; Music; Musical instrument; Banjo,1.823,4,8,4
+Y2b0eM8lWGCQ,"Neigh, whinny; Animal; Horse; Clip-clop","Animal; Horse; Clip-clop; Neigh, whinny",1.802,4,4,4
+Y2bCuw7U_Rac,Music; Singing; Swing music; Folk music; Salsa music; Musical instrument,Music; Musical instrument; Accordion; Traditional music,1.840,2,6,4
+Y2BGzxAuetOA,Music; Soul music; Singing,Music; Rock and roll; Roll,1.847,1,3,3
+Y2blZkl-4FAs,Music,Music; Jazz,1.916,1,1,2
+Y2BNSDDwGxM8,"Speech; Chatter; Crowd; Inside, public space; Inside, large room or hall; Battle cry; Music",Speech; Animal; Horse; Clip-clop,1.841,1,7,4
+Y2buZvJA40kY,Music; Scary music,String section,1.785,0,2,1
+Y2bYyywE97aA,"Dog; Animal; Domestic animals, pets; Vacuum cleaner; Bow-wow; Yip; Whimper (dog); Bark; Canidae, dogs, wolves",Vacuum cleaner,1.760,1,9,1
+Y2c1nxR7aq1o,Vehicle; Engine knocking; Engine; Engine starting; Idling; Motorcycle; Car; Medium engine (mid frequency); Vibration; Lawn mower,Clatter,1.780,0,10,1
+Y2c3dLb4s7Fo,Change ringing (campanology); Church bell; Bell; Music,Change ringing (campanology),1.818,1,4,1
+Y2CEb1hYM3EA,"Speech; Chewing, mastication; Inside, small room; Biting","Chewing, mastication; Biting",1.792,2,4,2
+Y2CidaVnd60g,Music; Cymbal; Hi-hat; Snare drum; Drum kit; Drum; Bass drum; Rimshot; Percussion; Musical instrument,Percussion; Drum kit; Drum; Snare drum; Rimshot; Drum roll; Bass drum; Cymbal,1.770,7,10,8
+Y2cxvYC9QZac,Music; Salsa music; Music of Latin America; Swing music; Maraca; Ska,Music; Music of Africa; Ska,1.783,2,6,3
+Y2CymVO8lDJs,Owl; Crow; Animal,Animal; Crow,1.759,2,3,2
+Y2CzfBZ1mYBs,Music; Video game music,Music; Electronic music; House music,1.774,1,2,3
+Y2d4HQ8ZM_2k,Engine; Engine starting; Rub; Vehicle; Idling; Sawing; Medium engine (mid frequency); Scrape; Heavy engine (low frequency),Engine; Medium engine (mid frequency); Idling,1.754,3,9,3
+Y2da1DRLuo9o,"Pigeon, dove; Bird; Coo; Bird vocalization, bird call, bird song; Animal",Tap,1.785,0,5,1
+Y2DfCM54wPVw,"Speech; Sniff; Inside, small room; Snort","Rodents, rats, mice",1.817,0,4,1
+Y2Dk41eofomE,Wood; Drawer open or close; Cupboard open or close; Rub; Door; Filing (rasp),Cupboard open or close,1.838,1,6,1
+Y2DMbBzMgBbw,"Cash register; Sewing machine; Speech; Inside, small room; Camera",Coin (dropping),1.868,0,5,1
+Y2Dpz7l4-0iQ,"Speech; Crumpling, crinkling; Inside, small room; Music; Crushing","Speech; Music; Crumpling, crinkling; Inside, small room",1.836,4,5,4
+Y2Dr7gDL46NU,Speech,Speech; Drawer open or close,1.806,1,1,2
+Y2DvXfu76u7M,Oink,Pour,1.757,0,1,1
+Y2DwZipkoEns,Music; Police car (siren); Ambulance (siren); Emergency vehicle; Siren; Vehicle; Disco,Hum; Throbbing,1.955,0,7,2
+Y2DyD824KPFM,Environmental noise; Car alarm; Police car (siren); Animal; Siren,Insect; Cricket,1.893,0,5,2
+Y2dyEnOo3yJ8,Music; Middle Eastern music; Folk music; Music of Bollywood; Singing; Traditional music,Mantra; Music; Middle Eastern music,1.843,2,6,3
+Y2dyxjGTXSpA,Music; Opera; Singing; Chant; Choir; Gospel music,Mantra; Music,1.925,1,6,2
+Y2E-21MCbWVQ,Speech; Hammer; Tools; Music,Percussion; Wood block,1.931,0,4,2
+Y2e0ZRe0x_nE,"Speech; Dial tone; Telephone; Telephone dialing, DTMF; Inside, small room",Sidetone,1.991,0,5,1
+Y2E8vsQB4pug,"Speech; Animal; Domestic animals, pets; Dog; Bird; Bark; Bird vocalization, bird call, bird song; Chirp, tweet; Breathing; Bow-wow",Speech; Scratch,1.916,1,10,2
+Y2eDP3jKoUd4,Owl; Hoot; Patter,Owl; Hoot,1.843,2,3,2
+Y2es7oZzwLWM,Music; Musical instrument; Guitar; Plucked string instrument; Acoustic guitar; Strum; Bowed string instrument,Zither; Pizzicato,1.860,0,7,2
+Y2eWobSpugTw,"Crying, sobbing; Baby cry, infant cry; Speech; Whimper","Baby cry, infant cry",1.778,1,4,1
+Y2eYaXTKSpMI,"Cat; Animal; Domestic animals, pets; Meow; Caterwaul; Speech","Animal; Domestic animals, pets; Cat; Meow; Caterwaul",1.750,5,6,5
+Y2Ez8rOW1gdI,Speech; Synthesizer; Music; Musical instrument,Speech; Reverberation,1.814,1,4,2
+Y2E_N8lnoVKE,Vehicle; Car,Vehicle; Car; Microwave oven,1.824,2,2,3
+Y2f-D0yAfu9c,Wood; Splinter; Sawing,Wood; Splinter,1.780,2,3,2
+Y2f1UXGix_Cw,Music; Beatboxing; Electronic music; Vocal music; Techno,Music; Roll,1.759,1,5,2
+Y2f7Ad-XpbnY,Music; Boom; Fusillade; Shatter,Music; Vehicle; Bicycle,1.840,1,4,3
+Y2f7NnTVQzR0,Music; Female singing; Singing; Music of Asia,Singing; Female singing; Music,1.840,3,4,3
+Y2Fbt9QiLWWc,"Chicken, rooster; Cluck; Speech; Fowl; Bird; Insect; Cricket",Fowl; Cluck,1.854,2,7,2
+Y2Fdau5KTEls,"Vehicle; Car; Accelerating, revving, vroom; Microwave oven","Vehicle; Car; Race car, auto racing; Whir",1.814,2,4,4
+Y2ff27NC3YUc,Speech; Music; Typing,Speech; Clicking,1.813,1,3,2
+Y2ffgd7k0vI8,"Cap gun; Gunshot, gunfire; Music","Gunshot, gunfire; Cap gun",1.907,2,3,2
+Y2fi0m8ei_B4,Sliding door; Music; Air conditioning; Train; Vehicle; Door; Rail transport,Music; Vehicle; Car; Door; Sliding door,1.874,4,7,5
+Y2fL9dvO8O3Q,Church bell; Bell; Music; Change ringing (campanology); Speech,Church bell,1.910,1,5,1
+Y2FQKfGCwjSE,Music; Musical instrument; Guitar; Rock music; Plucked string instrument; Singing; Psychedelic rock,Music; Radio,1.827,1,7,2
+Y2FrXzcm4YMc,Music; Mantra; Chant; Speech; Gong,Gong,1.919,1,5,1
+Y2G4lyzAZ1vk,"Music; Guitar; Musical instrument; Plucked string instrument; Electronic tuner; Acoustic guitar; Inside, small room; Singing; Strum; Electric guitar",Female singing; Music,1.859,1,10,2
+Y2G5bSYHcJSM,Music; Electronic music; House music; Disco; Funny music; Techno; Dance music,Music; Funny music,1.771,2,7,2
+Y2gbNCkCPl7w,Speech; Music; Thunk,Speech; Music; Cupboard open or close,1.788,2,3,3
+Y2GepmcbNlJY,Music; Speech; Hip hop music; Singing,Singing; Music; Rhythm and blues; Song; Zing,1.796,2,4,5
+Y2GGNgvdRcAs,Keys jangling; Door; Speech,Sliding door,1.800,0,3,1
+Y2GOPuGmcHH0,"Vehicle; Gunshot, gunfire; Lawn mower; Machine gun; Speech; Explosion",Lawn mower,1.796,1,6,1
+Y2gorz6QJPVg,Fart; Whistle,Whistle,1.773,1,2,1
+Y2GS_c8w9k9E,Speech; Animal,Chop,1.723,0,2,1
+Y2GuH1UJxQOk,Music; Music of Asia; Pop music; Singing,Female singing; Music,1.761,1,4,2
+Y2gvw16YDwMA,"Animal; Roar; Cat; Domestic animals, pets; Grunt","Animal; Domestic animals, pets; Cat; Meow; Caterwaul",1.751,3,5,5
+Y2GWkKVHxGRM,Music; Drum kit; Drum; Musical instrument; Organ; Electronic organ; Hammond organ; Bass drum; Percussion; Rimshot,Music; Funk,1.716,1,10,2
+Y2heXOWGXgFw,"Vehicle; Race car, auto racing; Car; Skidding; Tire squeal; Car passing by",Rustle,1.811,0,6,1
+Y2Hj6ogt1TJo,Speech; Keys jangling; Vehicle,"Livestock, farm animals, working animals; Cattle, bovinae; Moo",1.773,0,3,3
+Y2hxIN0MTKbs,Music; Speech,Speech; Music; Funny music,1.777,2,2,3
+Y2HZcxlRs-hg,Vehicle; Lawn mower; Engine; Light engine (high frequency); Truck; Heavy engine (low frequency),Vehicle; Truck; Reversing beeps,1.742,2,6,3
+Y2I0ns0crmrA,"Animal; Domestic animals, pets; Hiccup; Dog; Mouse; Bird","Animal; Domestic animals, pets; Cat; Caterwaul",1.737,2,6,4
+Y2i1Gs32odx4,Music; Tabla; Carnatic music; Speech; Musical instrument; Classical music; Percussion; Singing,Percussion; Drum; Tabla,1.845,2,8,3
+Y2i4UNf8tjvU,Music; Country; Middle Eastern music; Speech; Bluegrass; Singing,Music; Rustling leaves,1.798,1,6,2
+Y2iAO9PKZDGk,Television; Music; Change ringing (campanology); Bell; Church bell,Church bell,1.517,1,5,1
+Y2Ic1zm9mBjk,Music; Sitar; Musical instrument; Carnatic music; Plucked string instrument; Classical music; Bowed string instrument,Music; Sitar,1.775,2,7,2
+Y2IEoe3YvCJo,"Speech; Music; Domestic animals, pets; Animal; Cat; Caterwaul; Meow; Fart; Buzz","Speech; Animal; Domestic animals, pets; Cat; Caterwaul; Music",1.760,6,9,6
+Y2im0SfR2KEA,"Speech; Child speech, kid speaking; Babbling; Belly laugh; Inside, small room; Breathing","Chuckle, chortle",1.706,0,6,1
+Y2INpPpv4NRg,"Sewing machine; Speech; Inside, small room; Music",Speech; Music; Sewing machine,1.804,3,4,3
+Y2iozIhNDrzQ,Music; Christmas music; Christian music; Soul music; Singing; Gospel music,Music; Tender music,1.765,1,6,2
+Y2Ix-fxa8Z-0,Speech; Plop; Music,Speech; Plop,1.848,2,3,2
+Y2i_PkE-eS0A,"Water; Bathtub (filling or washing); Sink (filling or washing); Water tap, faucet",Water; Bathtub (filling or washing),1.766,2,4,2
+Y2jKheXvnT6o,"Cat; Domestic animals, pets; Animal; Speech; Purr; Caterwaul",Speech; Cat; Purr,1.985,3,6,3
+Y2jn2amm53u8,"Mouse; Speech; Rodents, rats, mice; Animal; Patter; Bird","Rodents, rats, mice; Patter",1.914,2,6,2
+Y2JnlmS1zzls,Music; Chant; Mantra,Chant; Mantra; Music; Folk music; Vocal music,1.980,3,3,5
+Y2Jpg_KvJWL0,Vehicle; Reversing beeps; Speech; Truck; Air brake,Vehicle; Truck; Reversing beeps,1.775,3,5,3
+Y2jpLS2TQjlI,Whistling; Thunk,Whistling,1.779,1,2,1
+Y2JuMYUPMGGM,Music; Synthesizer; Sidetone; Electronic music; Musical instrument,Music; Busy signal,1.867,1,5,2
+Y2juYRZnhF3g,"Music; Synthetic singing; Christmas music; Christian music; Inside, small room; Jingle (music); Singing",Synthetic singing; Music,1.884,2,7,2
+Y2JXesKiAqbs,,"Mechanisms; Ratchet, pawl; Gears; Pulleys",1.815,0,0,4
+Y2jxgoUnZ8AI,"Speech; Chopping (food); Inside, small room",Speech; Squish,1.782,1,3,2
+Y2k5j31W0Q7M,Speech; Lawn mower; Vehicle; Engine; Idling; Medium engine (mid frequency); Light engine (high frequency),Speech; Vehicle; Light engine (high frequency),1.807,3,7,3
+Y2k6_k7K_ixg,Music; Buzzer,Fart; Music,1.823,1,2,2
+Y2kcSUBkFbaQ,Music; Rapping; Hip hop music,Music; Soul music; Funk; Dance music; Happy music,1.761,1,3,5
+Y2ke9wf3Ajkg,Vehicle; Engine; Speech; Idling,Engine; Engine knocking,1.779,1,4,2
+Y2KGnpMYHBGI,Music; Whale vocalization; Ambient music; Electronic music,Whale vocalization; Music,1.863,2,4,2
+Y2kHcvpsu_QY,French horn; Brass instrument; Music; Musical instrument; Piano; Trombone; Trumpet; Classical music; Keyboard (musical),Keyboard (musical); Piano; Brass instrument; French horn,1.835,4,9,4
+Y2KhtV4TsZ3M,Frying (food); Sizzle; Stir,Frying (food); Stir; Sizzle,1.767,3,3,3
+Y2kk95G0hzPc,Speech; Crowd; Cheering; Whoop,"Speech; Yell; Inside, large room or hall",1.812,1,4,3
+Y2KlckeHMtow,"Speech; Dishes, pots, and pans; Cutlery, silverware; Coin (dropping)",Coin (dropping),1.743,1,4,1
+Y2KMSm4MxJJo,"Music; Smash, crash; Shuffle; Whack, thwack; Speech","Smash, crash",1.744,1,5,1
+Y2KQAtN4XF8o,Gong,Gong,1.831,1,1,1
+Y2KwSyaLT_mw,Music; Effects unit; Distortion; Guitar; Musical instrument; Chorus effect; Plucked string instrument; Echo; Electric guitar,Music; Musical instrument; Guitar; Effects unit; Chorus effect; Distortion,1.719,6,9,6
+Y2L29e0VfplU,Music; Boom; Breaking; Explosion; Shatter; Fire,Music; Pulse,1.846,1,6,2
+Y2L3tuvv5RRw,"Wild animals; Animal; Roaring cats (lions, tigers); Music; Roar; Crow; Speech","Grunt; Animal; Wild animals; Roaring cats (lions, tigers); Music",1.987,4,7,5
+Y2laUv3y7OfA,"Music; Harpsichord; Violin, fiddle; Musical instrument; Keyboard (musical); Piano; Bowed string instrument; Orchestra; Cello; Classical music",Keyboard (musical); Electric piano; Harpsichord,1.821,2,10,3
+Y2lC1J0_hL68,Speech; Plop; Music,Speech; Plop,1.818,2,3,2
+Y2lM3im4QeIg,"Speech; Male speech, man speaking; Narration, monologue",Speech; Applause,1.820,1,3,2
+Y2lONJq8Tr5s,Sanding; Rub,Sanding; Rub,1.874,2,2,2
+Y2lprblLRqRs,Chopping (food); Speech; Chop; Wood,Chopping (food),1.883,1,4,1
+Y2LRhkMH48_Q,"Speech; Music; Vehicle; Car; Air horn, truck horn; Toot; Vehicle horn, car horn, honking","Boat, Water vehicle; Motorboat, speedboat",1.776,0,7,2
+Y2lYeLYHTlTY,Rub; Sanding; Filing (rasp),Filing (rasp); Rub,1.874,2,3,2
+Y2m2bdfsT_sk,"Bird flight, flapping wings; Speech; Bird; Bird vocalization, bird call, bird song; Chirp, tweet; Pigeon, dove","Bird flight, flapping wings",1.811,1,6,1
+Y2m9rVrVNa6A,Rub; Sanding,Sanding; Rub,1.845,2,2,2
+Y2Mb6w4q_Gb0,Chainsaw; Tools; Power tool,Clatter,1.770,0,3,1
+Y2mClfU2NStY,Speech,"Speech; Chink, clink",1.736,1,1,2
+Y2mkJkrFeqjc,"Speech; Vehicle; Car; Traffic noise, roadway noise; Wind; Boat, Water vehicle; Ship","Boat, Water vehicle; Sailboat, sailing ship; Ship",1.778,2,7,3
+Y2Mkwgf0Pej0,Engine knocking; Vehicle; Engine; Rattle,Sewing machine; Jackhammer,1.788,0,4,2
+Y2MpzHv5KNZU,Music; New-age music; Environmental noise; Lullaby,Music; Wedding music,1.740,1,4,2
+Y2MR8Bs5aEfE,Speech; Spray; Hiss; Steam,Sanding; Rub,1.713,0,4,2
+Y2mw1UMcc_Ys,"Speech; Babbling; Inside, small room; Belly laugh; Giggle; Laughter",Speech; Babbling,1.752,2,6,2
+Y2n1uVcKIOjo,Vehicle; Engine; Idling; Car; Vibration; Heavy engine (low frequency); Medium engine (mid frequency),Wood; Splinter,1.731,0,7,2
+Y2N2msWTHybg,"Speech; Children playing; Child speech, kid speaking; Outside, urban or manmade; Baby cry, infant cry","Speech; Child speech, kid speaking; Children playing",1.762,3,5,3
+Y2n4hCl6eHZI,"Scissors; Inside, small room",Scissors,1.847,1,2,1
+Y2N8j_VGCrbs,Speech; Vehicle; Mechanical fan; Wind; Car; Wind noise (microphone),Speech; Mechanical fan,1.883,2,6,2
+Y2nMi2-nHXYE,"Dishes, pots, and pans; Cutlery, silverware; Speech; Rub; Wood","Speech; Chink, clink",1.811,1,5,2
+Y2nsZhXxes68,Music; Angry music; Heavy metal,Music; Angry music,1.798,2,3,2
+Y2o1p83UjJFA,Music; Mantra; Lullaby,Chant; Music,1.758,1,3,2
+Y2o4-lEtFb2k,Hair dryer,Hair dryer,1.822,1,1,1
+Y2Oe5kao1ycY,"Train; Railroad car, train wagon; Rail transport; Subway, metro, underground; Train wheels squealing; Vehicle; Clickety-clack","Rail transport; Train; Railroad car, train wagon; Train wheels squealing; Subway, metro, underground; Clickety-clack",1.788,6,7,6
+Y2ofK2gAQue4,"Smoke detector, smoke alarm; Speech; Fire alarm; Buzzer","Speech; Female speech, woman speaking; Smoke detector, smoke alarm",1.720,2,4,3
+Y2OgnuomEpG4,"Crushing; Crumpling, crinkling",Crushing,1.796,1,2,1
+Y2OI4QeokeRQ,Music; Speech; Christmas music; Singing; Christian music; Happy music; Music for children,Music; Pop music; Rock music; Psychedelic rock; Country,1.780,1,7,5
+Y2OK-5YpNAEI,"Alarm clock; Beep, bleep",Buzzer,1.824,0,2,1
+Y2Oyl4A561po,Jackhammer; Speech; Tools,Tools; Power tool; Drill,1.746,1,3,3
+Y2P1bR6hShJ4,Speech; Vehicle; Explosion; Eruption; Aircraft,Speech; Eruption,1.802,2,5,2
+Y2pHfgh_G1yo,Ambulance (siren); Siren; Emergency vehicle; Police car (siren); Music; Speech,Emergency vehicle; Ambulance (siren); Siren,1.804,3,6,3
+Y2pikqXJeOAg,Animal; Horse; Clip-clop,Animal; Horse; Clip-clop,1.829,3,3,3
+Y2Pk5iJH5wKw,Speech; Vehicle; Animal; Horse; Clip-clop,Creak,1.829,0,5,1
+Y2pt7WZBYeeI,"Train; Rail transport; Railroad car, train wagon; Train horn; Clickety-clack; Vehicle; Train whistle","Rail transport; Train; Train horn; Railroad car, train wagon; Subway, metro, underground",1.740,4,7,5
+Y2pV6t7CO0Bc,Music; Synthesizer; Piano; Keyboard (musical); Electric piano; Musical instrument,Keyboard (musical); Piano; Electric piano,1.761,3,6,3
+Y2pYtX-Stpys,Music; Hammer,Tools; Hammer,1.780,1,2,2
+Y2Q1RbN2zxws,Wood; Splinter; Chop,Wood; Chop,1.833,2,3,2
+Y2q4_wFFFG_U,"Speech; Tap; Dishes, pots, and pans",Speech; Breaking,1.805,1,3,2
+Y2qagYYdOh6o,"Rodents, rats, mice; Music","Rodents, rats, mice",1.769,1,2,1
+Y2qg5P9IJ_9U,Toilet flush; Water; Liquid; Music; Fill (with liquid); Speech,Water; Pump (liquid),1.879,1,6,2
+Y2qGjgfpQtFI,Music; Angry music; Drum roll; Drum; Snare drum; Bass drum; Drum kit; Rimshot; Percussion,Percussion; Drum kit; Drum; Snare drum; Rimshot; Drum roll; Bass drum,1.762,7,9,7
+Y2qkSxJ1ohCk,Music; Speech,Speech; Music; Tap,1.754,2,2,3
+Y2qO-OQtOBK0,Music; Wood block; Percussion; Drum; Musical instrument; Speech,Run; Music,1.823,1,6,2
+Y2qSknsEkmZI,Music; Guitar; Musical instrument; Foghorn; Plucked string instrument,Didgeridoo; Foghorn,1.733,1,5,2
+Y2QuZzkvq_YQ,"Bathtub (filling or washing); Speech; Inside, small room; Water; Gargling","Speech; Child speech, kid speaking; Gargling; Bathtub (filling or washing)",1.782,3,5,4
+Y2Qxj8wy6t7w,"Trickle, dribble; Basketball bounce; Speech","Trickle, dribble",1.692,1,3,1
+Y2qZqgRg5E6o,Animal; Speech,"Hiccup; Inside, large room or hall",1.810,0,2,2
+Y2r9oAGTQ6go,"Crunch; Chewing, mastication; Biting",Squish,1.693,0,3,1
+Y2rdkLx56T1c,Boiling,Run,1.772,0,1,1
+Y2rdTrQnl4c8,Speech; Music; Noise,Speech; Electric toothbrush,1.756,1,3,2
+Y2REf8hLLYMw,"Speech; Animal; Cat; Domestic animals, pets; Meow; Caterwaul","Speech; Animal; Domestic animals, pets; Cat; Meow; Caterwaul",1.805,6,6,6
+Y2RIrAIR0TGk,Speech; Sawing; Wood; Rub,Speech; Zipper (clothing),1.844,1,4,2
+Y2rjbtsX7twc,Music; A capella; Singing; Choir; Vocal music,A capella,1.707,1,5,1
+Y2RkkXBLpvlU,"Car; Vehicle; Car passing by; Tire squeal; Accelerating, revving, vroom; Flap; Whoosh, swoosh, swish; Whir; Race car, auto racing",Tire squeal; Scrape,1.774,1,9,2
+Y2RU4CSDzS-g,Music; Musical instrument; Plucked string instrument; Guitar; Lullaby; Acoustic guitar,Music; Lullaby,1.817,2,6,2
+Y2rW2I6KmWhw,"Music; Opera; Animal; Domestic animals, pets; Whimper; Speech","Animal; Domestic animals, pets; Dog; Yip; Howl; Whimper (dog); Music",1.790,3,6,7
+Y2s5UxZuCIGk,Shatter; Breaking; Speech; Laughter; Music,"Speech; Wail, moan",1.790,1,5,2
+Y2S8yOM_-P9k,"Speech; Screaming; Inside, small room",Speech; Yip,1.584,1,3,2
+Y2Se5wE9k_R8,Speech; Vehicle,"Speech; Jackhammer; Outside, rural or natural",1.760,1,2,3
+Y2sGnD9sd1xM,Speech; Sewing machine,Typewriter,1.828,0,2,1
+Y2sIfE3KOi5s,Music; Musical instrument; Swing music; Guitar; Ska; Plucked string instrument; Soul music,Music; Soul music; Swing music,1.769,3,7,3
+Y2SI_uNBcSyw,Music; Angry music; Drum; Drum kit; Snare drum; Bass drum,Music; Angry music,1.805,2,6,2
+Y2Ssh4YWMroo,"Domestic animals, pets; Animal; Cat; Dog; Pant; Purr; Caterwaul; Speech","Animal; Domestic animals, pets; Cat; Caterwaul",1.813,4,8,4
+Y2Szah76TMgo,Silence,Run; Silence,1.801,1,1,2
+Y2T1P9ovsl4A,"Music; Musical instrument; Guitar; Plucked string instrument; Steel guitar, slide guitar; Electric guitar; Strum; Acoustic guitar; Blues","Music; Bass guitar; Steel guitar, slide guitar; Chorus effect",1.729,2,9,4
+Y2t4CkOvERAI,"Speech; Electric shaver, electric razor; Buzz; Inside, small room",Electric toothbrush,1.882,0,4,1
+Y2T8OhRXZDTs,Music; Musical instrument; Orchestra; Timpani; Flamenco; Pizzicato; Plucked string instrument; Guitar,Zither; Pizzicato,1.850,1,8,2
+Y2t8rYnARZuI,Music; Speech; Sizzle; Frying (food),Raindrop,1.767,0,4,1
+Y2T8xFxE0XqU,Music; Afrobeat; Music of Africa; Reggae; Hip hop music,Music; Music of Africa; Afrobeat; Scrape,1.810,3,5,4
+Y2tBRn4xKmzM,"Speech; Dog; Animal; Domestic animals, pets; Pant; Canidae, dogs, wolves; Bow-wow; Outside, rural or natural; Whimper (dog)","Speech; Animal; Domestic animals, pets; Dog; Whimper (dog)",1.854,5,9,5
+Y2TjVbDWZvcE,Speech; Owl; Hoot,Owl; Hoot,1.714,2,3,2
+Y2TprtMP1RDo,Whispering; Speech,Speech; Whispering,1.799,2,2,2
+Y2TwDPcR64Vo,"Speech; Typing; Computer keyboard; Inside, small room; Snicker",Speech; Typing,1.807,2,5,2
+Y2Tx5L5RBXxw,"Speech; Boat, Water vehicle; Vehicle; Rowboat, canoe, kayak; Stream; Wind; Ocean; Waves, surf; Wind noise (microphone); Sailboat, sailing ship",Stream,1.885,1,10,1
+Y2tXE7snh6Ak,"Speech; Inside, small room; Giggle; Belly laugh","Speech; Laughter; Snicker; Domestic animals, pets; Cat; Meow",1.736,1,4,6
+Y2U-4QHS0QBc,"Music; Violin, fiddle; Carnatic music; Musical instrument; Classical music; Bowed string instrument; Pizzicato; Music of Asia","Percussion; Drum; Tabla; Bowed string instrument; Violin, fiddle",1.778,2,8,5
+Y2u3n44OAbxU,Sizzle; Frying (food); Stir,Stir; Sizzle,1.880,2,3,2
+Y2u4zDo5-upw,"Speech; Crumpling, crinkling; Inside, small room; Typewriter; Child speech, kid speaking; Crackle",Speech; Squish,1.845,1,6,2
+Y2U8Dvh7nwFI,Music; Pop music; Happy music,Music; Happy music,1.777,2,3,2
+Y2uagA3ujRtM,Purr; Silence; Music; Animal,Purr; Music,1.724,2,4,2
+Y2uHcWdkV4W4,"Train; Railroad car, train wagon; Rail transport; Subway, metro, underground; Train wheels squealing; Vehicle; Clickety-clack","Rail transport; Train; Railroad car, train wagon; Subway, metro, underground",1.878,4,7,4
+Y2uIQLhORRns,Rain; Rain on surface; Raindrop; Thunderstorm; Thunder,Rain; Rustle,1.816,1,5,2
+Y2uKKkYgtlws,Typing; Computer keyboard; Speech; Music,Speech; Typing,1.782,2,4,2
+Y2uMXfAIMeN0,"Vehicle; Car; Power windows, electric windows; Speech; Motor vehicle (road)","Vehicle; Car; Power windows, electric windows",1.773,3,5,3
+Y2uU_EoIj3tw,Speech; Music; Boom,Speech; Music; Boom,1.839,3,3,3
+Y2uvHgwAljPA,Music; Scratching (performance technique); Scratch; Electronic music; Musical instrument,Music; Drum machine; Scratching (performance technique); Scratch,1.873,3,5,4
+Y2UXH7NW9ae8,"Boat, Water vehicle; Vehicle; Sailboat, sailing ship; Wind; Wind noise (microphone); Ocean; Waves, surf; Ship; Rowboat, canoe, kayak","Wind; Wind noise (microphone); Boat, Water vehicle; Sailboat, sailing ship",1.878,4,9,4
+Y2uZt59va3Ss,Speech; Boom; Music; Train,"Rail transport; Train; Railroad car, train wagon; Subway, metro, underground",1.793,1,4,4
+Y2v1rSA4FqlM,"Water; Pump (liquid); Speech; Water tap, faucet; Gush; Sink (filling or washing); Music; Fill (with liquid)",Water; Pump (liquid),1.748,2,8,2
+Y2vcA_vgImHQ,Speech; Vehicle; Engine; Car; Idling,Lawn mower,1.892,0,5,1
+Y2VdW0Qvn2Hw,Skateboard; Speech; Arrow,Speech; Gush,1.826,1,3,2
+Y2vFqNsOPq3I,French horn; Music; Brass instrument; Trombone; Foghorn; Trumpet,Brass instrument; French horn,1.886,2,6,2
+Y2VFVe0RCn7g,Music; Musical instrument; Guitar; Plucked string instrument; Electric guitar; Cacophony; Heavy metal; Tapping (guitar technique); Strum; Bass guitar,Music; Electric guitar; Tapping (guitar technique); Distortion,1.876,3,10,4
+Y2vGEqb8pEiE,Music; Jingle (music); Christmas music; Singing; Christian music; Gospel music,"Jingle, tinkle",1.910,0,6,1
+Y2Viydoqs590,Music; Heavy metal; Progressive rock; Musical instrument; Guitar; Punk rock; Rock music; Rock and roll; Plucked string instrument,Rock music; Punk rock; Progressive rock; Psychedelic rock,1.770,3,9,4
+Y2VjbDttFK44,"Speech; Inside, small room",Finger snapping,1.821,0,2,1
+Y2VnxG-9LHh0,Steam whistle; Steam; Train whistle; Whistle; Hiss,Toot,1.807,0,5,1
+Y2vQTq4QLP8U,Music; Disco; Dance music,Music; Funny music,1.913,1,3,2
+Y2vSF2Yh6o_k,"Speech; Animal; Domestic animals, pets; Dog; Horse","Rodents, rats, mice; Patter",1.872,0,5,2
+Y2VuKP6zZDDc,"Speech; Belly laugh; Inside, small room; Giggle; Babbling; Baby laughter; Laughter","Speech; Baby laughter; Inside, small room",1.885,3,7,3
+Y2vvtR9Xwzp0,"Vehicle; Aircraft; Fixed-wing aircraft, airplane; Aircraft engine; Outside, urban or manmade; Outside, rural or natural; Jet engine; Propeller, airscrew","Vehicle; Aircraft; Aircraft engine; Fixed-wing aircraft, airplane",1.765,4,8,4
+Y2vYkvwD-fkc,"Harmonica; Howl; Music; Dog; Animal; Domestic animals, pets; Canidae, dogs, wolves; Bow-wow; Bark; Yip","Wind instrument, woodwind instrument; Harmonica",1.863,1,10,2
+Y2vzUFWykARU,Toilet flush; Water,Water; Toilet flush,1.838,2,2,2
+Y2v_KyNpsyKs,Siren; Ambulance (siren); Emergency vehicle; Police car (siren),Emergency vehicle; Ambulance (siren); Siren,1.743,3,4,3
+Y2W27eT4HqtE,"Music; Whistle; Inside, small room",Screaming; Music,1.904,1,3,2
+Y2W4dw8XuetE,"Speech; Boat, Water vehicle; Music; Rowboat, canoe, kayak; Vehicle; Slosh","Wind; Wind noise (microphone); Boat, Water vehicle; Rowboat, canoe, kayak",1.914,2,6,4
+Y2wBXDZaCJ3Q,"Sink (filling or washing); Water tap, faucet; Water; Speech","Water; Water tap, faucet; Sink (filling or washing)",1.789,3,4,3
+Y2Wd2wqMzDYc,Speech; Gasp; Sigh; Snort; Breathing,Speech; Breathing,1.773,2,5,2
+Y2WDuMKh0Igg,"Ship; Foghorn; Boat, Water vehicle; Vehicle horn, car horn, honking; Vehicle; Speech; Wind",Foghorn,1.810,1,7,1
+Y2WfJBpN4elI,"Speech; Music; Child speech, kid speaking; Laughter; Giggle",Speech; Oink; Music,1.944,2,5,3
+Y2wGpeTasJLA,Whale vocalization; Music; Siren; Civil defense siren,Whale vocalization,1.857,1,4,1
+Y2wGvpfAkly0,Child singing; Singing; Speech,Child singing,1.854,1,3,1
+Y2wIrHCaxBNU,"Insect; Fly, housefly; Bee, wasp, etc.; Speech; Mosquito","Insect; Mosquito; Fly, housefly",1.758,3,5,3
+Y2Wk4Y3_dMuc,"Music; Drawer open or close; Musical instrument; Inside, small room",Drawer open or close,1.762,1,4,1
+Y2wm96HRMTA8,"Music; Marimba, xylophone; Vibraphone; Glockenspiel; Mallet percussion",Chirp tone,1.762,0,5,1
+Y2Wr7o5BG6e0,Whispering; Speech,Speech; Whispering,1.842,2,2,2
+Y2WTk_j_fivY,Speech; Music; Vehicle; Car,Speech; Vehicle; Reversing beeps,1.810,2,4,3
+Y2WxUIkF2zEw,"Music; Water; Sink (filling or washing); Water tap, faucet; Gush; Bathtub (filling or washing)",Music; Water; Gush,1.778,3,6,3
+Y2WXvLj5TCKw,Stir; Sizzle; Frying (food); Music; Speech,Sizzle,1.777,1,5,1
+Y2x4694ExyCU,Music; Angry music; Heavy metal,Music; Angry music,1.816,2,3,2
+Y2xBIHi3oqy4,"Speech; Female speech, woman speaking; Narration, monologue","Speech; Female speech, woman speaking; Chuckle, chortle",1.791,2,3,3
+Y2XFrBXTnNY8,"Animal; Dog; Domestic animals, pets; Bark; Bow-wow; Crow; Caw; Canidae, dogs, wolves; Yip","Animal; Domestic animals, pets; Bark; Bird; Crow",1.808,4,9,5
+Y2xGRCsW6-Bk,"Music; Musical instrument; Rattle (instrument); Guitar; Plucked string instrument; Music of Latin America; Marimba, xylophone",Music; Rattle (instrument),1.795,2,7,2
+Y2XictKgGPnM,Throat clearing; Cough; Silence,Throat clearing,1.545,1,3,1
+Y2XK3vXa-wgw,"Music; Bicycle; Vehicle; Boat, Water vehicle",Animal; Horse; Clip-clop; Music,1.826,1,4,4
+Y2XnrT4pM_6A,"Mains hum; Hum; Music; Electric shaver, electric razor",Hum; Static; Mains hum,1.817,2,4,3
+Y2xQuWif8axE,Music; Musical instrument; Guitar; Plucked string instrument; Electric guitar; Strum; Bass guitar; Speech; Tapping (guitar technique); Acoustic guitar,Music; Electric guitar; Distortion; Cacophony,1.825,2,10,4
+Y2XR54m3kvn8,"Speech; Outside, rural or natural; Animal; Insect; Cricket; Liquid",Patter,1.792,0,6,1
+Y2xtOqrNKH5s,Music; Electronic dance music; House music,Music; Clatter,1.847,1,3,2
+Y2y7aiiaJPf8,"Water; Liquid; Inside, small room; Bathtub (filling or washing); Dishes, pots, and pans","Dishes, pots, and pans; Cutlery, silverware",1.859,1,5,2
+Y2YAyM0aHFRU,Music; Music of Latin America; Maraca; Singing; Salsa music; Speech,Music; Music of Latin America; Wedding music,1.864,2,6,3
+Y2yllw7g5EkU,Typing; Computer keyboard; Clicking,Biting,1.798,0,3,1
+Y2Yo0MGR2kmA,"Bagpipes; Wind instrument, woodwind instrument; Speech; Music",Speech; Music; Ukulele; Bagpipes,1.783,3,4,4
+Y2YQPwRLB1s0,Zipper (clothing); Music; Speech,Music; Zipper (clothing),1.808,2,3,2
+Y2yrL0F_0UGc,Busy signal; Dial tone,Busy signal; Sound effect,1.531,1,2,2
+Y2yumaMbGybU,"Music; Bagpipes; Folk music; Wind instrument, woodwind instrument","Wind instrument, woodwind instrument; Bagpipes",1.772,2,4,2
+Y2YW7WBtqzzQ,"Music; Speech; Roar; Roaring cats (lions, tigers); Wild animals","Burping, eructation",1.890,0,5,1
+Y2Yx2hU9uv40,Speech; Wind noise (microphone); Wind; Vehicle; Train,Speech; Gurgling,1.833,1,5,2
+Y2yX9079mMB4,"Speech; Cat; Caterwaul; Domestic animals, pets; Animal; Meow","Speech; Animal; Domestic animals, pets; Cat; Meow",1.823,5,6,5
+Y2YXcqoFlYFY,"Speech; Fireworks; Firecracker; Crowd; Outside, urban or manmade",Fireworks,1.786,1,5,1
+Y2Y_7sGgczAU,Speech; Typewriter; Cash register,Speech; Cash register,1.813,2,3,2
+Y2z5yJ2qa_5I,"Car; Vehicle; Car passing by; Accelerating, revving, vroom; Whir; Whoosh, swoosh, swish",Car passing by,1.742,1,6,1
+Y2z9i0KS7WR8,Music; Christmas music; Music for children; Singing; Happy music; Christian music,Music of Asia,1.773,0,6,1
+Y2zAUcAhX5wQ,"Squeak; Speech; Inside, small room",Speech; Squeak,1.788,2,3,2
+Y2ZB7DUGOdZw,Music; Rock music; Heavy metal; Drum kit; Musical instrument; Drum; Punk rock,Buzz; Music,1.787,1,7,2
+Y2ZbuPK4b41I,"Music; Speech; Child speech, kid speaking; Inside, small room",Speech; Laughter; Music; Funny music; Television,1.846,2,4,5
+Y2zdYIRTUQYE,"Shatter; Speech; Inside, large room or hall; Breaking",Speech; Shatter,1.881,2,4,2
+Y2zec0wuZgLE,"Speech; Drawer open or close; Inside, small room",Speech; Drawer open or close,1.743,2,3,2
+Y2ZfthfWQowE,Music; Video game music; Theme music; Soundtrack music,Music; Single-lens reflex camera,1.763,1,4,2
+Y2zFwh2eRu0s,Music; Speech; Music for children; Drip; Liquid; Fill (with liquid),Speech; Music; Drip,1.772,3,6,3
+Y2ZgEbNi--8Q,Music; Speech; Dubstep; Electronic music,Music; Electronic music; Dubstep; Field recording,1.928,3,4,4
+Y2ZhiOvhUTGA,Vehicle; Engine; Idling; Heavy engine (low frequency); Vibration; Medium engine (mid frequency); Engine knocking,"Boat, Water vehicle; Motorboat, speedboat",1.835,0,7,2
+Y2ZHLMmZB-HQ,Chant; Mantra; Music; Vocal music,Chant,1.787,1,4,1
+Y2zjtZYqg3Ow,Music; Drum and bass; Electronic music,Music; Soul music; Drum and bass; Electronica,1.780,2,3,4
+Y2zKyMjBnL0Y,Speech; Sigh; Breathing; Gasp,Sigh,1.897,1,4,1
+Y2ZNKLUHeJtg,Music; Cello; Pizzicato; Double bass; Musical instrument; Bowed string instrument; Guitar; Plucked string instrument,Bowed string instrument; Cello; Double bass,1.829,3,8,3
+Y2zO-nlygkFo,Speech; Music; Musical instrument; Clapping; Flamenco,Speech; Applause; Music; Tap,1.721,2,5,4
+Y2ZogsGp-T4o,"Music; Ukulele; Musical instrument; Inside, small room; Guitar; Plucked string instrument",Music; Mandolin,1.781,1,6,2
+Y2Zqhv2v3bdI,Scissors; Typewriter,Scissors,1.681,1,2,1
+Y2zvRxVypSC8,Tick-tock; Tick,Animal; Crow,1.743,0,2,2
+Y2zwNVAyInxs,"Emergency vehicle; Fire engine, fire truck (siren); Vehicle; Siren; Truck; Ambulance (siren); Car; Police car (siren); Motor vehicle (road)","Emergency vehicle; Fire engine, fire truck (siren); Siren",1.808,3,9,3
+Y2_9WJSzV6fw,"Speech; Narration, monologue",Raindrop,1.775,0,2,1
+Y2_a-Yh5FTaE,"Vehicle; Jet engine; Aircraft; Fixed-wing aircraft, airplane",Sound effect,1.847,0,4,1
+Y2_cTS4ctWtE,Music; Opera; Brass instrument; French horn; Trombone; Classical music; Singing; Musical instrument; Orchestra; Trumpet,Orchestra; Brass instrument; French horn,1.839,3,10,3
+Y2_HheXrvjA0,Single-lens reflex camera,Animal; Pig,1.808,0,1,2
+Y2_kLD3IbF2c,"Music; Sheep; Bleat; Animal; Goat; Livestock, farm animals, working animals",Music; Foghorn,1.900,1,6,2
+Y2_RltCGlGOA,Music; Keyboard (musical); Piano; Musical instrument; Electric piano,Keyboard (musical); Piano; Electric piano,1.794,3,5,3
+Y2_SKjq21NTI,"Harmonica; Music; Wind instrument, woodwind instrument; Clarinet; Musical instrument","Wind instrument, woodwind instrument; Clarinet",1.785,2,5,2
+Y2_Vk3tmqz-0,Music; Singing; Country; Bluegrass; Gospel music; Christian music; Speech,Music; Traditional music,1.803,1,7,2
+Y2_wwe6Fs97o,Engine; Cacophony; Vibration; Music; Idling; Vehicle; Heavy engine (low frequency),Rattle,1.820,0,7,1
+Y2__RQYoZrjI,Printer; Vehicle; Speech,"Vehicle; Power windows, electric windows",1.844,1,3,2
+Y2__T6Q8rCCA,"Insect; Fly, housefly; Bee, wasp, etc.; Cricket; Mosquito; Speech","Insect; Fly, housefly; Bee, wasp, etc.",1.868,3,6,3
+Y3-a8i_MEUl8,Music; Angry music,Music; Vehicle; Bicycle; Skateboard,1.889,1,2,4
+Y3Aa_0OnEwXM,Music; Whistle,Whistle,1.905,1,2,1
+Y3Ab0sgelCEw,"Busy signal; Beep, bleep; Buzzer; Dial tone; Speech",Busy signal; Buzzer,1.848,2,5,2
+Y3AcKnYk_cLY,Cacophony; Music; Noise; Buzzer; Radio,"Boat, Water vehicle; Motorboat, speedboat",1.768,0,5,2
+Y3ad_9-lnDiQ,Music; Electronic music; Sonar; Sidetone; Silence,Music; Eruption,1.846,1,5,2
+Y3AFdUihWPCk,Speech; Pink noise,Rustle,1.871,0,2,1
+Y3AFia3Uo0TQ,"Speech; Hubbub, speech noise, speech babble; Chatter; Crowd; Outside, urban or manmade; Conversation; Male speech, man speaking","Speech; Hubbub, speech noise, speech babble; Outside, urban or manmade",1.823,3,7,3
+Y3AJuHcjE31w,Cheering; Crowd; Children shouting; Speech,Children shouting; Cheering; Crowd,1.822,3,4,3
+Y3aM1Kt1sO5s,"Speech; Laughter; Snicker; Chuckle, chortle",Speech; Squeak,1.824,1,4,2
+Y3ANlPU9YFmw,Speech; Groan,Frog; Croak,1.807,0,2,2
+Y3AwevAQzwcs,"Cat; Animal; Domestic animals, pets; Caterwaul; Meow",Meow; Caterwaul,1.814,2,5,2
+Y3AzacBprTzU,"Animal; Domestic animals, pets; Dog; Bark; Speech; Bow-wow; Canidae, dogs, wolves; Growling; Yip","Speech; Animal; Domestic animals, pets; Dog; Bark; Whimper (dog)",1.930,5,9,6
+Y3B0WbwAkByI,"Speech; Baby laughter; Snicker; Laughter; Chuckle, chortle; Belly laugh; Giggle","Chuckle, chortle",1.766,1,7,1
+Y3b3s0TvjGwA,Music; Throbbing; Electronic music,Music; Sonar,1.768,1,3,2
+Y3bg0iy-ypcw,Music; Musical instrument,Music; Jazz,1.770,1,2,2
+Y3bGqkpfyk6k,"Power windows, electric windows",Sawing; Wood; Rub,1.841,0,1,3
+Y3BM0gDnXzoo,"Music; Speech; Shout; Singing; Inside, large room or hall; Crowd; Inside, public space",Shout; Bellow; Yell; Music,1.756,2,7,4
+Y3c-vZ4GpIKs,"Speech; Vehicle; Boat, Water vehicle; Motorboat, speedboat; Car",Speech; Squish,1.816,1,5,2
+Y3ClbaJYWVO4,Music; Guitar; Reverberation; Musical instrument; Plucked string instrument; Effects unit; Echo; Electric guitar; Distortion; Chorus effect,Music; Musical instrument; Plucked string instrument; Guitar; Electric guitar; Effects unit; Echo,1.827,7,10,7
+Y3CnwUQZ6q78,Hammer; Wood; Speech,Hammer,1.840,1,3,1
+Y3cRk33vPkAU,"Animal; Cattle, bovinae; Wild animals; Livestock, farm animals, working animals; Roar; Moo",Stomach rumble,1.793,0,6,1
+Y3cwciEOpQ-c,Music; Speech; Bleat; Sheep; Goat; Animal,Speech; Goat; Music; Music for children,1.788,3,6,4
+Y3CZ1i2_tKn0,"Animal; Dog; Domestic animals, pets; Bow-wow; Whimper (dog); Yip; Howl; Canidae, dogs, wolves; Bark; Speech",Yip,1.791,1,10,1
+Y3d6ismCJdos,"Machine gun; Gunshot, gunfire","Gunshot, gunfire; Cap gun",1.882,1,2,2
+Y3d9geu1pBAc,Silence; Music; Speech,White noise,1.727,0,3,1
+Y3dgg5f9CyP4,Music; Tap; Singing,Choir; Music; Tap,1.818,2,3,3
+Y3DltVi8aMh4,"Speech; Dog; Domestic animals, pets; Animal; Bow-wow; Whimper (dog); Breathing",Pant,1.787,0,7,1
+Y3DMExvlPy-o,Music; Speech,Speech; Music; Television,1.810,2,2,3
+Y3dUo62RsD00,Music; Rock music; Drum kit; Musical instrument; Rock and roll; Drum; Guitar; Roll; Psychedelic rock; Punk rock,Music; Field recording,1.867,1,10,2
+Y3e927DjM6Iw,"Music; Speech; Boom; Smash, crash; Fusillade",Speech; Music; Boom,1.874,3,5,3
+Y3eBoAlHnttY,Music; Singing; Clapping; Hands; Female singing,Choir; Female singing; Music,1.819,2,5,3
+Y3EcfiEc08zY,Music; Musical instrument; Drum; Drum kit; Percussion,Clapping,1.826,0,5,1
+Y3EE5WKQMBek,"Speech; Chicken, rooster; Fowl; Crowing, cock-a-doodle-doo; Cluck","Fowl; Chicken, rooster; Crowing, cock-a-doodle-doo",1.799,3,5,3
+Y3EHq6q_zHjE,"Environmental noise; Speech; Bird; Bird vocalization, bird call, bird song; Chirp, tweet; Animal; Outside, rural or natural",Bird; Environmental noise,1.912,2,7,2
+Y3EmkrsJvbBU,Chant; Music; Speech; Male singing; Mantra,Chant,1.784,1,5,1
+Y3EtbIWF_ynU,Music; Musical instrument; Piano; Classical music; Pizzicato; Zither; Plucked string instrument,Music; Traditional music,1.906,1,7,2
+Y3Ev_k__U3Io,"Speech; Water; Liquid; Water tap, faucet; Sink (filling or washing); Inside, small room; Drip",Speech; Water; Drip,1.833,3,7,3
+Y3F9Qszr4j1Q,"Flute; Music; Wind instrument, woodwind instrument; Musical instrument","Wind instrument, woodwind instrument; Flute",1.764,2,4,2
+Y3Fc9mqg4pJw,Alarm clock; Music; Clock,"Ice cream truck, ice cream van",1.876,0,3,1
+Y3FE8b0QVvsM,Harpsichord; Music; Keyboard (musical); Piano,Keyboard (musical); Harpsichord,1.912,2,4,2
+Y3FhjfPkNp-w,Speech synthesizer; Speech,Speech; Speech synthesizer,1.813,2,2,2
+Y3fnVQT2TnJs,"Rub; Wood; Sawing; Bee, wasp, etc.; Insect; Fly, housefly; Filing (rasp); Sanding",Sanding; Rub,1.875,2,8,2
+Y3FPdOrrWJt8,Speech; Music; Boing,"Whoosh, swoosh, swish",1.900,0,3,1
+Y3fqWosszpnE,"Music; Tap; Thump, thud; Speech; Singing",Music; Tap,1.889,2,5,2
+Y3FYXBkD5bYk,Vehicle; Air brake; Bus; Truck; Car,"Electric shaver, electric razor",1.870,0,5,1
+Y3G5r3CSLteY,Hum; Mains hum; Speech,Hum; Mains hum,1.812,2,3,2
+Y3GbIhQLCH9I,"Speech; Animal; Horse; Neigh, whinny; Music","Speech; Animal; Horse; Neigh, whinny; Music",1.811,5,5,5
+Y3gCD4JFbxuo,Baby laughter; Laughter; Speech,Laughter; Baby laughter,1.796,2,3,2
+Y3gjFMkV2ucY,Music; Accordion; Musical instrument,Accordion,1.832,1,3,1
+Y3gR0QBgrzYQ,Vehicle; Vacuum cleaner; Engine,Vacuum cleaner,1.977,1,3,1
+Y3GtvLj8K1F4,"Harmonica; Music; Wind instrument, woodwind instrument","Wind instrument, woodwind instrument; Harmonica",1.911,2,3,2
+Y3gwZdkjpPds,Music; Opera; Singing,Music; Opera,1.861,2,3,2
+Y3Gyi7AvDLzc,Music; Banjo; Bluegrass; Country; Musical instrument; Singing; Guitar; Plucked string instrument,Music; Banjo; Bluegrass,1.871,3,8,3
+Y3g_GUoCbzTc,Gasp; Speech,Speech; Gasp,1.814,2,2,2
+Y3h-9ltE4t9c,Arrow,Arrow,1.785,1,1,1
+Y3H3261x-QgI,"Goat; Animal; Sheep; Bleat; Livestock, farm animals, working animals; Speech",Bleat; Sheep,1.821,2,6,2
+Y3h8PzeGp2RQ,"Speech; Inside, small room",Chopping (food),1.872,0,2,1
+Y3HDJFsi9S0c,Mechanical fan,Single-lens reflex camera,1.822,0,1,1
+Y3HfgmWYXlvo,"Vehicle; Car; Accelerating, revving, vroom; Engine; Medium engine (mid frequency); Music",Engine; Medium engine (mid frequency); Idling,1.801,2,6,3
+Y3hIqesIVX-c,Music; Speech,Church bell,1.847,0,2,1
+Y3hLxPQpmfQo,"Vehicle; Car; Whir; Whoosh, swoosh, swish; Clatter",Vehicle; Motor vehicle (road); Car; Skidding; Tire squeal,1.780,2,5,5
+Y3h_Y5S3zdas,Music; Folk music; Music of Africa; Traditional music; Middle Eastern music; Flute,"Wind instrument, woodwind instrument; Flute",1.858,1,6,2
+Y3i0GlkevMuQ,"Livestock, farm animals, working animals; Moo; Cattle, bovinae","Livestock, farm animals, working animals; Cattle, bovinae; Moo",1.716,3,3,3
+Y3I3HZLx23E0,Music; Tambourine; Maraca; Timpani; Musical instrument; Drum,Music; Tambourine; Maraca,1.824,3,6,3
+Y3id3zRRZBVM,Throat clearing; Cough,Cough,1.817,1,2,1
+Y3IdazIWh2Ew,"Howl; Animal; Domestic animals, pets; Dog; Canidae, dogs, wolves; Yip; Whimper (dog); Speech; Bow-wow",Howl,1.807,1,9,1
+Y3InTvnjfheM,Speech; Sigh; Gasp; Whip,"Slap, smack",1.861,0,4,1
+Y3iQ_xRurgS8,"Speech; Neigh, whinny; Horse; Animal; Clip-clop","Speech; Neigh, whinny",1.873,2,5,2
+Y3iSvKVoA8aM,Rub; Sanding,Sanding; Rub,1.878,2,2,2
+Y3IW7578PicA,Stir; Frying (food); Sizzle; Speech,Frying (food); Stir; Sizzle,1.802,3,4,3
+Y3IwOig7sw6c,Chainsaw; Power tool; Tools; Sawing; Wood; Rub,Chainsaw,1.786,1,6,1
+Y3IX29m1L9UY,Music; Whoop; Speech; Groan,Speech; Whoop,1.810,2,4,2
+Y3Jc3uW-Lcs0,Music; Maraca; Speech; Singing,Speech; Music; Traditional music; Dance music,1.899,2,4,4
+Y3juGfzF29Sc,"Music; Marimba, xylophone; Musical instrument; Glockenspiel; Mallet percussion; Percussion; Vibraphone",Speech; Music; Vibraphone; Ringtone,1.832,2,7,4
+Y3JYQgXudiH8,Music; Afrobeat; Music of Africa; Singing,Music; Music of Africa; Afrobeat,1.784,3,4,3
+Y3JZbfcbZaoM,Vehicle; Idling; Engine; Medium engine (mid frequency); Vibration; Car; Engine knocking; Heavy engine (low frequency),Heavy engine (low frequency); Engine knocking,1.763,2,8,2
+Y3k8zGf8Btfo,Drum kit; Drum; Bass drum; Snare drum; Music; Cymbal; Percussion; Musical instrument; Hi-hat; Rimshot,Percussion; Drum kit; Drum; Snare drum; Rimshot; Drum roll; Bass drum; Wood block,1.779,6,10,8
+Y3kaCL9Zu7NY,"Music; Musical instrument; Bluegrass; Country; Violin, fiddle; Bowed string instrument; Guitar; Banjo; Wedding music","Zither; Bowed string instrument; Violin, fiddle; Pizzicato",1.862,2,9,4
+Y3Kb4RHaZpxo,Telephone bell ringing; Telephone,Telephone bell ringing,1.606,1,2,1
+Y3KFW9XGD7hc,Sanding; Rub,Sanding; Rub,1.776,2,2,2
+Y3klIBnvMYhg,"Speech; Inside, small room; Water; Sink (filling or washing); Water tap, faucet; Bathtub (filling or washing)",Speech; Gurgling,1.878,1,6,2
+Y3kSQNjfJnN8,Theremin; Music; Humming,Music; Theremin,1.875,2,3,2
+Y3KwulXmBX-8,"Screaming; Speech; Baby cry, infant cry; Whimper; Crying, sobbing; Inside, small room","Baby cry, infant cry",1.781,1,6,1
+Y3kx-UhywUf0,Speech; Vacuum cleaner; Hair dryer,Vacuum cleaner,1.799,1,3,1
+Y3kXukXBvDQQ,Music; Speech,Sigh; Music,1.875,1,2,2
+Y3lFZ-QSUeHo,Music; Electronic music,"Whoosh, swoosh, swish",1.814,0,2,1
+Y3LiCT1BSrgQ,Vehicle; Reversing beeps; Truck,"Vehicle; Reversing beeps; Outside, urban or manmade",1.934,2,3,3
+Y3_54-fv4bQE,"Vehicle; Car; Speech; Race car, auto racing; Skidding; Motor vehicle (road); Tire squeal; Car passing by; Air brake; Accelerating, revving, vroom",Speech; Vehicle; Air brake,1.883,3,10,3
+Y3_A0AP3Xh9s,Drum kit; Drum; Snare drum; Bass drum; Music; Percussion; Cymbal; Hi-hat; Rimshot; Musical instrument,Percussion; Drum kit; Drum; Snare drum; Rimshot; Bass drum; Cymbal; Hi-hat,2.022,8,10,8
+Y3_M9ZMo5TiU,Music; Theremin,Music; Theremin,1.945,2,2,2
+Y3_OLj6XChvM,Engine starting; Vehicle; Car; Engine; Music; Medium engine (mid frequency); Speech; Idling,Music; Vehicle; Car; Engine; Medium engine (mid frequency); Engine starting,1.839,6,8,6
+Y3_PWk-CZaAU,"Speech; Burst, pop; Machine gun; Explosion",Hum; Mains hum,1.860,0,4,2
